@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.http://katsyoshi.hatenablog.com/entry/2013/12/01/235129\n\nhttp://katsyoshi.hatenablog.com/entry/2013/12/01/235129", "tags": ["Ruby", "jubatus0.5.0"]}

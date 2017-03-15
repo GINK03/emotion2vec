@@ -72,7 +72,7 @@ def _get_tags_links(taglink):
     driver.save_screenshot("tag_scraping.png")
 
 def each_tags_link_scrape():
-  with concurrent.futures.ProcessPoolExecutor(max_workers=16) as executor:
+  with concurrent.futures.ProcessPoolExecutor(max_workers=8) as executor:
     taglinks = [taglink for taglink in filter(lambda x:x!='', open('tags.txt', 'r').read().split('\n'))]
     for taglink in taglinks:
       executor.submit(_get_tags_links, taglink)
@@ -111,7 +111,7 @@ def get_content():
   buckets = []
   for i in range(0, len(allurls) - 100, 100):
     buckets.append(allurls[i:i+100])
-  with concurrent.futures.ProcessPoolExecutor(max_workers=20) as executor:
+  with concurrent.futures.ProcessPoolExecutor(max_workers=6) as executor:
     for id, bucket in enumerate(buckets):
       executor.submit(_get_content, bucket)
 

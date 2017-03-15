@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u30d0\u30ea\u30c7\u30fc\u30bf\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\nhttp://docs.symfony.gr.jp/symfony2/reference/constraints.html\n\u30d0\u30ea\u30c7\u30fc\u30bf\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\nhttp://docs.symfony.gr.jp/symfony2/reference/constraints.html\n", "tags": ["Symfony2"]}

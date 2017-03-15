@@ -1,0 +1,1 @@
+{"tags": ["C++11"], "context": "    std::random_device rd;\n    std::mt19937 mt(rd());\n    std::uniform_real_distribution<double> double_source(1.0, 30.0);\n    double val = double_source(mt);\n\n```\n    std::random_device rd;\n    std::mt19937 mt(rd());\n    std::uniform_real_distribution<double> double_source(1.0, 30.0);\n    double val = double_source(mt);\n```\n"}

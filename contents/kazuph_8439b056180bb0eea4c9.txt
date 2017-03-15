@@ -1,0 +1,1 @@
+{"context": "$ vim -b <IMAGE_NAME>.bin +'%!xxd' +\u2019%s/FFFF/EEEE/g\u2019 +'%!xxd -r' +wq\n\n```shell-session\n$ vim -b <IMAGE_NAME>.bin +'%!xxd' +\u2019%s/FFFF/EEEE/g\u2019 +'%!xxd -r' +wq\n```\n", "tags": ["Vim", "Binary"]}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\nWireshark\nXQuartz\nXQuartz \u306e Terminal \u304b\u3089 /Applications/Wireshark.app/Contents/MacOS/Wireshark \u3092\u5b9f\u884c\n\n- Wireshark\n- XQuartz\n- XQuartz \u306e Terminal \u304b\u3089 /Applications/Wireshark.app/Contents/MacOS/Wireshark \u3092\u5b9f\u884c\n", "tags": ["Wireshark"]}

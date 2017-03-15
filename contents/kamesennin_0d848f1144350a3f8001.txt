@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.find ./ -type f -print | xargs grep '\u691c\u7d22\u3057\u305f\u3044\u6587\u5b57\u5217'\nfind ./ -type f -print | xargs grep '\u691c\u7d22\u3057\u305f\u3044\u6587\u5b57\u5217'\n", "tags": ["UNIX"]}

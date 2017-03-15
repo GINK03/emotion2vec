@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\ntell application \"VLC\"\n    open \"/Videos/playlist.m3u\"\n    fullscreen\nend tell\n\n```applescript\n\ntell application \"VLC\"\n\topen \"/Videos/playlist.m3u\"\n\tfullscreen\nend tell\n```\n", "tags": ["AppleScript"]}

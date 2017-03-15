@@ -1,0 +1,1 @@
+{"tags": ["SQLServer", "AWS", "RDS"], "context": "RDS\u7cfb\u30e1\u30e2\ntest\u304b\u3089test2\u3078\u5909\u66f4\nEXEC rdsadmin.dbo.rds_modify_db_name N'test', N'test2'\n\nRDS\u7cfb\u30e1\u30e2\n \n```\ntest\u304b\u3089test2\u3078\u5909\u66f4\nEXEC rdsadmin.dbo.rds_modify_db_name N'test', N'test2'\n```\n\n"}

@@ -1,0 +1,1 @@
+{"tags": ["GoogleAppsScript"], "context": " More than 1 year has passed since last update.\u3053\u308c\u3067\n\u3081\u3093\u3069\u304f\u3055\u304b\u3063\u305f\u308f\u3051\u3058\u3083\u306a\u3044\u3088\n[\u3053\u308c\u3067](https://gist.github.com/4661041)\n\n\u3081\u3093\u3069\u304f\u3055\u304b\u3063\u305f\u308f\u3051\u3058\u3083\u306a\u3044\u3088"}

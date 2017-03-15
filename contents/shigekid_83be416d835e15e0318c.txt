@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.console\u3092\u7acb\u3061\u4e0a\u3052\u3066\u308b\u72b6\u614b\u3067\u4ee5\u4e0b\u5165\u529b\nActiveRecord::Base.logger = nil\n\nconsole\u3092\u7acb\u3061\u4e0a\u3052\u3066\u308b\u72b6\u614b\u3067\u4ee5\u4e0b\u5165\u529b\n\n```\nActiveRecord::Base.logger = nil\n", "tags": ["rails3"]}

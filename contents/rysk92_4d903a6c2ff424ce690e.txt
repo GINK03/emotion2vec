@@ -1,0 +1,1 @@
+{"context": "date 0518171215\n\n\u53c2\u8003: http://osxdaily.com/2015/01/19/fix-os-x-install-errors-cant-be-verified-error-occurred-preparing-mac/\n```\ndate 0518171215\n```\n\n\u53c2\u8003: http://osxdaily.com/2015/01/19/fix-os-x-install-errors-cant-be-verified-error-occurred-preparing-mac/\n", "tags": ["OSX", "OSXELCapitan"]}

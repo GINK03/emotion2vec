@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.::selection {\n  background: XXX;\n  color: XXX; }\n::-moz-selection {\n  background: XXX;\n  color: XXX; }\n\n```ccs:\n::selection {\n  background: XXX;\n  color: XXX; }\n::-moz-selection {\n  background: XXX;\n  color: XXX; }\n```", "tags": ["snippets", "CSS", "CSS3"]}

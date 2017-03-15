@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update./etc/sudoers\u3067\u4ee5\u4e0b\u306e\u4e00\u884c\u3092\u8ffd\u52a0\nusername ALL=(ALL) NOPASSWD:ALL\nvisudo\u3067\u7de8\u96c6\u53ef\u80fd\n`/etc/sudoers`\u3067\u4ee5\u4e0b\u306e\u4e00\u884c\u3092\u8ffd\u52a0\n`username ALL=(ALL) NOPASSWD:ALL`\n\n`visudo`\u3067\u7de8\u96c6\u53ef\u80fd\n", "tags": ["Linux", "server"]}

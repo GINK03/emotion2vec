@@ -1,0 +1,1 @@
+{"tags": ["virtualenv", "Python"], "context": " More than 1 year has passed since last update.\nhoge.sh\nsource `which virtualenvwrapper.sh`\nworkon py3\npython hogehoge.py\ndeactivate\n\n\n\n````Bash:hoge.sh\nsource `which virtualenvwrapper.sh`\nworkon py3\npython hogehoge.py\ndeactivate\n```\n\n"}

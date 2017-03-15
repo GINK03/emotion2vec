@@ -1,0 +1,1 @@
+{"tags": ["Clojure", "ClojureScript"], "context": " More than 1 year has passed since last update.Clojure \u306e Boot \u3068\u3044\u3046\u30d3\u30eb\u30c9\u30c4\u30fc\u30eb\u306b\u3064\u3044\u3066\n[Clojure \u306e Boot \u3068\u3044\u3046\u30d3\u30eb\u30c9\u30c4\u30fc\u30eb\u306b\u3064\u3044\u3066](http://ayato.hateblo.jp/entry/20150502/1430560799)\n"}

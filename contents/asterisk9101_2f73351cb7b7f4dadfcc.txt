@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u30ea\u30f3\u30af\u3092\u53c2\u7167\u306e\u3053\u3068\nScript/TipsJScript - \u5099\u5fd8\u9332\n\u30ea\u30f3\u30af\u3092\u53c2\u7167\u306e\u3053\u3068\n[Script/TipsJScript - \u5099\u5fd8\u9332](http://apis.jpn.ph/fswiki/wiki.cgi?page=Script%2FTipsJScript)\n", "tags": ["JScript", "VBScript", "WSH"]}

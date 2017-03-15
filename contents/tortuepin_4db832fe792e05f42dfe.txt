@@ -1,0 +1,1 @@
+{"context": "brew install swi-prolog\n\n```\nbrew install swi-prolog\n```\n", "tags": ["Prolog"]}

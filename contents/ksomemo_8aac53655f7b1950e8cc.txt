@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\npasteFromClipBoard.R\n# win/Linux?\ndata <- read.table(\"clipboard\")\n\n# mac\ndata <- read.table(pipe(\"pbpaste\"))\n\n\n\n```R:pasteFromClipBoard.R\n# win/Linux?\ndata <- read.table(\"clipboard\")\n\n# mac\ndata <- read.table(pipe(\"pbpaste\"))\n```\n", "tags": ["memo"]}

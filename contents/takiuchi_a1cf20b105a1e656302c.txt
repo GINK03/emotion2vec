@@ -1,0 +1,1 @@
+{"context": "\u4ee5\u4e0b\u306e\u901a\u308a\u3002\n# timedatectl set-timezone Asia/Tokyo\n\n\u78ba\u8a8d\u306f timedatectl \u3067ok\n\u4ee5\u4e0b\u306e\u901a\u308a\u3002\n\n```\n# timedatectl set-timezone Asia/Tokyo\n```\n\n\u78ba\u8a8d\u306f `timedatectl` \u3067ok\n", "tags": ["Ubuntu", "xenial", "tips"]}

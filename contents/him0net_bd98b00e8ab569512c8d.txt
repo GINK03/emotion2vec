@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.Create Project\u3067\u4eee\u60f3\u9593\u74b0\u5883\u306eInterpriter\u3092\u6307\u5b9a\n~/.pyenv/shims/python\n\ntools > Create setup.py\n\nCreate Project\u3067\u4eee\u60f3\u9593\u74b0\u5883\u306eInterpriter\u3092\u6307\u5b9a\n\n```\n~/.pyenv/shims/python\n```\n\ntools > Create setup.py\n", "tags": ["Pycharm"]}

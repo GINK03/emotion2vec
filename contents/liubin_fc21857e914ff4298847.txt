@@ -1,0 +1,1 @@
+{"tags": ["SublimeText3"], "context": " More than 1 year has passed since last update.{\n    \"translate_tabs_to_spaces\": true,\n    \"draw_white_space\": \"all\"\n}\n\n```json\n{\n    \"translate_tabs_to_spaces\": true,\n    \"draw_white_space\": \"all\"\n}\n```\n"}

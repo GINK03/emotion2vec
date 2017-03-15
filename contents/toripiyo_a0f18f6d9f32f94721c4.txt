@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\nsecurity tools\n\nfiresheep\nfiresheep get the cookie data of insecure website in the same wifi network user.\nhttp://codebutler.com/firesheep/\n# security tools\n## firesheep\nfiresheep get the cookie data of insecure website in the same wifi network user.\nhttp://codebutler.com/firesheep/\n", "tags": ["Security"]}

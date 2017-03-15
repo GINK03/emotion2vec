@@ -1,0 +1,1 @@
+{"context": "/etc/sysconfig/iptables \u306b\u8a2d\u5b9a\u53cd\u6620\n$ sudo service iptables reload\n\n\n/etc/sysconfig/iptables \u306b\u8a2d\u5b9a\u53cd\u6620\n\n```\n$ sudo service iptables reload\n```\n", "tags": ["iptables"]}

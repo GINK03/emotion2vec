@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u3053\u308c\u306f\u53c2\u8003\u306b\u306a\u3063\u305f\u3002\n[\u3053\u308c](http://kunisan.jp/gomi/program_facebook_javascript_sdk.html)\u306f\u53c2\u8003\u306b\u306a\u3063\u305f\u3002", "tags": ["FacebookSDK"]}

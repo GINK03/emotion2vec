@@ -1,0 +1,1 @@
+{"tags": ["apple"], "context": " More than 1 year has passed since last update.\nApple Developer\niTunes Connect\n\n+ [Apple Developer](https://developer.apple.com/jp/ )\n\n+ [iTunes Connect](https://developer.apple.com/jp/)"}

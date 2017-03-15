@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.splite3\u306b\u5165\u308b\u3002\n./bin/rails db\n\nsplite3\u306b\u5165\u308b\u3002\n\n```\n./bin/rails db\n```\n", "tags": ["SQLite3"]}

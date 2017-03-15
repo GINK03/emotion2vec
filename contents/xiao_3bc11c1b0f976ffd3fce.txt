@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n[\n    { \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} }\n]\n\n> [\n\t{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} }\n]\n", "tags": ["SublimeText3"]}

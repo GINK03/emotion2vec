@@ -1,0 +1,1 @@
+{"context": "This content moved to Using ELK(ElasticSearch 1.4.2 + Logstash 1.4.2 + Kibana 4 Beta3).\nThis content moved to [Using ELK(ElasticSearch 1.4.2 + Logstash 1.4.2 + Kibana 4 Beta3)](https://watermint.org/2014/12/24/using-elasticsearch-logstash-kibana/).\n", "tags": ["Elasticsearch", "Logstash", "Kibana4", "kibana"]}

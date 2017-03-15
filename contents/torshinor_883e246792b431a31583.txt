@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.Rakefile\u306b\u4e0b\u8a18\u3092\u8ffd\u52a0\u3059\u308b\u3002\n\nRakefile\nENV['COCOAPODS_NO_UPDATE']='1'\n\n\n\n``Rakefile``\u306b\u4e0b\u8a18\u3092\u8ffd\u52a0\u3059\u308b\u3002\n\n```ruby:Rakefile\nENV['COCOAPODS_NO_UPDATE']='1'\n```", "tags": ["RubyMotion"]}

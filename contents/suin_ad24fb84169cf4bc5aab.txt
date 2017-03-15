@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\nmainfile.php\n<?php\ndefine('LEGACY_INSTALLERCHECKER_ACTIVE', false);\n\n\n```php:mainfile.php\n<?php\ndefine('LEGACY_INSTALLERCHECKER_ACTIVE', false);\n```", "tags": ["PHP", "XOOPS"]}

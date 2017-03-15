@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.bundle exec rails generate paperclip '\u30e2\u30c7\u30eb\u30af\u30e9\u30b9\u540d' image \n\n```\nbundle exec rails generate paperclip '\u30e2\u30c7\u30eb\u30af\u30e9\u30b9\u540d' image \n", "tags": ["paperclip"]}

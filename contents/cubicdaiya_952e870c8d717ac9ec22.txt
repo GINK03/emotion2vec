@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.$ gcc -O2 -Q --help=optimize # O2\n$ gcc -O3 -Q --help=optimize # O3\n\n```\n$ gcc -O2 -Q --help=optimize # O2\n$ gcc -O3 -Q --help=optimize # O3\n```\n", "tags": ["C", "GCC"]}

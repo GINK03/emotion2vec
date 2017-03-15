@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u3088\u304f\u5fd8\u308c\u308b\u306e\u3067\u30e1\u30e2\u3002\n$ env `cygpath -mp GOPATH=$GOPATH:$PWD` go build src/main.go\n\n\u3088\u304f\u5fd8\u308c\u308b\u306e\u3067\u30e1\u30e2\u3002\n\n```bash\n$ env `cygpath -mp GOPATH=$GOPATH:$PWD` go build src/main.go\n```\n", "tags": ["Go1.3.3", "Cygwin"]}

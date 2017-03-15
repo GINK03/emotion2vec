@@ -1,0 +1,1 @@
+{"context": "brew tap homebrew/science\nbrew install opencv\ngem install ruby-opencv -- --with-opencv-dir=/usr/local/Cellar/opencv/2.4.8.2\n\u4ee5\u4e0a\u3002\n`brew tap homebrew/science`\n\n`brew install opencv`\n\n`gem install ruby-opencv -- --with-opencv-dir=/usr/local/Cellar/opencv/2.4.8.2`\n\n\n\u4ee5\u4e0a\u3002\n\n", "tags": ["OpenCV", "Ruby", "brew", "ruby-opencv"]}

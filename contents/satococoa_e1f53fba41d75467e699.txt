@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u3053\u3093\u306a\u611f\u3058\u304c\u4fbf\u5229\u304b\u3082\nNSIndexSet.indexSetWithIndexesInRange(NSMakeRange(0, count))\n\n\n\u3053\u3093\u306a\u611f\u3058\u304c\u4fbf\u5229\u304b\u3082\n\n```\nNSIndexSet.indexSetWithIndexesInRange(NSMakeRange(0, count))\n```", "tags": ["RubyMotion", "CocoaTouch"]}

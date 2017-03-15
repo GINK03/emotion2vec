@@ -1,0 +1,1 @@
+{"context": "sudo -u apache /var/www/apache/owncloud/occ upgrade\n\nownCloud is already latest version\n\n```\nsudo -u apache /var/www/apache/owncloud/occ upgrade\n\nownCloud is already latest version\n```\n", "tags": ["ownCloud"]}

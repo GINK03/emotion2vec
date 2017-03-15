@@ -1,0 +1,1 @@
+{"tags": ["Putty", "bashrc"], "context": " More than 1 year has passed since last update.\n.bashrc\nIGNOREEOF=99999999999999\nexport IGNOREEOF\n\n\n```bash:.bashrc\nIGNOREEOF=99999999999999\nexport IGNOREEOF\n```\n\n"}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.knife solo cook vagrant@vm.example.com ./nodes/example.json -N vm.example.com\n\nknife solo cook vagrant@vm.example.com ./nodes/example.json -N vm.example.com", "tags": ["knife", "chef"]}

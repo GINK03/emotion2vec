@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.http://blog.bigbinary.com/2013/08/04/rubymotion-image-orientation.html\nhttp://blog.bigbinary.com/2013/08/04/rubymotion-image-orientation.html\n", "tags": ["RubyMotion", "bubblewrap"]}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.texlive-latexextra\u3092\u5165\u308c\u308c\u3070\u826f\u3044\u3002\ntexlive-latexextra\u3092\u5165\u308c\u308c\u3070\u826f\u3044\u3002\n", "tags": ["archLinux"]}

@@ -1,0 +1,1 @@
+{"context": "\n\nclean\nhg --config extensions.purge= clean\n\n\nclose branch\nhg update [revision]\nhg commit --close-branch\n\n#clean\n\n```\nhg --config extensions.purge= clean\n```\n\n# close branch\n\n```\nhg update [revision]\nhg commit --close-branch\n```\n", "tags": ["Mercurial"]}

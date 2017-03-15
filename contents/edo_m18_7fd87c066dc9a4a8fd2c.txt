@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.var num = '10000000';\nwhile (num != (num = num.replace(/^(-?\\d+)(\\d{3})/, \"$1,$2\")));\n\n```javascript\nvar num = '10000000';\nwhile (num != (num = num.replace(/^(-?\\d+)(\\d{3})/, \"$1,$2\")));\n```\n", "tags": ["js", "memo", "tips", "JavaScript"]}

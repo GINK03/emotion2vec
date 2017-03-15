@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.sudo ln -sf /usr/share/zoneinfo/Asia/Dubai /etc/localtime\n\n```bash\nsudo ln -sf /usr/share/zoneinfo/Asia/Dubai /etc/localtime\n```\n", "tags": ["date", "localtime", "Linux"]}

@@ -1,0 +1,1 @@
+{"context": "https://cookieshq.co.uk/posts/4-tips-to-easily-improve-the-performance-of-your-Mongoid-queries/\nhttps://cookieshq.co.uk/posts/4-tips-to-easily-improve-the-performance-of-your-Mongoid-queries/\n", "tags": ["mongoid"]}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.find . -name .DS_Store -print0 | xargs -0 git rm && git commit -m \"remove all .DS_Store\" && git push origin master\n\n\n```bash\nfind . -name .DS_Store -print0 | xargs -0 git rm && git commit -m \"remove all .DS_Store\" && git push origin master\n```", "tags": ["Terminal"]}

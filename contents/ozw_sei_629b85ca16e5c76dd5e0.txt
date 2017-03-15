@@ -1,0 +1,1 @@
+{"tags": ["httpd", "Apache"], "context": " More than 1 year has passed since last update.\nhttpd.conf\n/usr/local/etc/apache2/httpd.conf\n\n\n/usr/local/Cellar/httpd/VERSION/share/apache2/htdocs\n\n\n```httpd.conf\n/usr/local/etc/apache2/httpd.conf\n```\n\n```docroot\n/usr/local/Cellar/httpd/VERSION/share/apache2/htdocs\n```\n\n"}

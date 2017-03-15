@@ -1,0 +1,1 @@
+{"tags": ["Mac", "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8"], "context": "\ud83d\udcbb\ncommand + control + space\n\n\ud83d\udcbb\n\n```\ncommand + control + space\n```\n"}

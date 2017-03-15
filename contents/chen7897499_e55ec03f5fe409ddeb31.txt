@@ -1,0 +1,1 @@
+{"context": "https://www.zhihu.com/question/20163104\nkonsole \u76f4\u63a5\u5728edit current profile\u7684appearance\nshow all fonts\nselect fonts\nselect wqy microhei\nhttps://www.zhihu.com/question/20163104\n\nkonsole \u76f4\u63a5\u5728edit current profile\u7684appearance\n\nshow all fonts\n\nselect fonts\n\nselect wqy microhei\n", "tags": ["archLinux"]}

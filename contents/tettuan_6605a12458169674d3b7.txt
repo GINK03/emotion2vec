@@ -1,0 +1,1 @@
+{"context": "alias git-push-curr='git push origin `git rev-parse --abbrev-ref HEAD`'\n\n```\nalias git-push-curr='git push origin `git rev-parse --abbrev-ref HEAD`'\n```\n\n", "tags": ["Git", "Push", "branch"]}

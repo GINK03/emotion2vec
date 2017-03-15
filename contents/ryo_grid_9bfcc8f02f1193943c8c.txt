@@ -1,0 +1,1 @@
+{"context": "\nfind \u5bfe\u8c61\u30c7\u30a3\u30ec\u30af\u30c8\u30ea -type f | perl -nle 'print if -f && -T'\n\n>find \u5bfe\u8c61\u30c7\u30a3\u30ec\u30af\u30c8\u30ea -type f | perl -nle 'print if -f && -T'\n", "tags": ["find", "shell", "command"]}

@@ -1,0 +1,1 @@
+{"context": "\u96a3\u306e\u4eba\u306b\u805e\u304b\u308c\u305f\u304b\u3089\u30e1\u30e2\u3002\n:v/\\v(:|^$)/norm A:\n\n\u96a3\u306e\u4eba\u306b\u805e\u304b\u308c\u305f\u304b\u3089\u30e1\u30e2\u3002\n\n```\n:v/\\v(:|^$)/norm A:\n```\n", "tags": ["Vim", "regex"]}

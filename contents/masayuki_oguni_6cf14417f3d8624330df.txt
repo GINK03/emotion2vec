@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\n\u3084\u308a\u65b9\n\nwget -c \u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u5bfe\u8c61\n\n\n\n# \u3084\u308a\u65b9\n> wget -c \u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u5bfe\u8c61\n\n\n\n", "tags": ["script", "wget"]}

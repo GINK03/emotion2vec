@@ -1,0 +1,1 @@
+{"tags": ["laravel5", "PHP"], "context": " More than 1 year has passed since last update.composer dump-autoload\nphp artisan migrate:refresh --seed\n\ndump-autoload \u3057\u3066\u3084\u3089\u306a\u3044\u3068\u3060\u3081\u3002\n```\ncomposer dump-autoload\nphp artisan migrate:refresh --seed\n```\n\ndump-autoload \u3057\u3066\u3084\u3089\u306a\u3044\u3068\u3060\u3081\u3002\n"}

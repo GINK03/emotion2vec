@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.$ xmllint --pretty 1 sample.xml\n\n```bash:\n$ xmllint --pretty 1 sample.xml\n```\n", "tags": ["ShellScript", "XML"]}

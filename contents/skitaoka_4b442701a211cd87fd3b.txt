@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.~/.bashrc \u306b\nalias tree='cmd //c tree //A //F'\n\n\u3068\u8a18\u8ff0\u3059\u308b\u3002\n`~/.bashrc` \u306b\n\n~~~bash\nalias tree='cmd //c tree //A //F'\n~~~\n\n\u3068\u8a18\u8ff0\u3059\u308b\u3002\n", "tags": ["\u958b\u767a\u74b0\u5883", "Git"]}

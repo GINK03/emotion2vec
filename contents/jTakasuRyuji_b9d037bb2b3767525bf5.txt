@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u73fe: WIndows10\n\u6848: Windows10\n\u73fe: WIndows10\n\u6848: Windows10\n", "tags": ["Windows10", "Qiita", "fixed"]}

@@ -1,0 +1,1 @@
+{"context": "Shift + esc\nShift + esc\n", "tags": ["Vimperator"]}

@@ -1,0 +1,1 @@
+{"tags": ["CentOS6.x", "Linux", "Zsh"], "context": " More than 1 year has passed since last update.chsh -s `which zsh` USER\n\n```\nchsh -s `which zsh` USER\n```"}

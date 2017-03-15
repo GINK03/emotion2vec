@@ -1,0 +1,1 @@
+{"tags": ["access"], "context": "\u3053\u3093\u306a\u611f\u3058\u3067\u53ef\u80fd\u3002\nDim hoge as String\nhoge = \u30dc\u30bf\u30f34\nMe.Controls(hoge).visible = true\n\n\u3053\u3093\u306a\u611f\u3058\u3067\u53ef\u80fd\u3002\n\n```\nDim hoge as String\nhoge = \u30dc\u30bf\u30f34\nMe.Controls(hoge).visible = true\n```\n"}

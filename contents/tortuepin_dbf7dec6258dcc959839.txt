@@ -1,0 +1,1 @@
+{"context": "alt enter\n\u3082\u3057\u304f\u306f\nalt f11\n\nalt enter\n\u3082\u3057\u304f\u306f\nalt f11\n", "tags": ["mintty", "Windows"]}

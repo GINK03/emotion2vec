@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u30e1\u30e2\n\nfind . -type d -empty -exec touch {}/.gitkeep \\;\n\n\u30e1\u30e2\n```\nfind . -type d -empty -exec touch {}/.gitkeep \\;\n```\n", "tags": ["gitignore"]}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.chmod -R 777 tmp\n\n\u3068\u304b\u3057\u3066\u304a\u304d\u307e\u3057\u305f\u3002\nsudo\u4ed8\u3051\u307e\u3057\u305f\u3002\n```unix\nchmod -R 777 tmp\n```\n\n\u3068\u304b\u3057\u3066\u304a\u304d\u307e\u3057\u305f\u3002\n\n`sudo`\u4ed8\u3051\u307e\u3057\u305f\u3002\n", "tags": ["UNIX"]}

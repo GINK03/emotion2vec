@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.$ tmux -2\n\nfrom tmux man page:\n-2 Force tmux to assume the terminal supports 256 colours\n\n\u3060\u3063\u3066\uff01\n\n```bash\n$ tmux -2\n```\n```\nfrom tmux man page:\n-2 Force tmux to assume the terminal supports 256 colours\n```\n\n\u3060\u3063\u3066\uff01\n", "tags": ["Vim", "tmux", "TomorrowTheme"]}

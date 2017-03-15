@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.WAV\u5f62\u5f0f\u304b\u3089CAF\u5f62\u5f0f\u306b\u5909\u63db\n$ afconvert -f caff -d LEI16 sample.wav sample.caf\n\n\nWAV\u5f62\u5f0f\u304b\u3089CAF\u5f62\u5f0f\u306b\u5909\u63db\n\n```zsh\n$ afconvert -f caff -d LEI16 sample.wav sample.caf\n```", "tags": ["CoreAudio", "iOS", "tips"]}

@@ -1,0 +1,1 @@
+{"context": "(Android Studio\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea)/jre\n(Android Studio\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea)/jre\n", "tags": ["react-native"]}

@@ -1,0 +1,1 @@
+{"context": "\n\nOpenCV Samples\nOpenCV(Python version) samples for begginers.\nStep by step.\nhttps://github.com/aux-di/opencv-samples\n# OpenCV Samples\n\nOpenCV(Python version) samples for begginers.\nStep by step.\n\nhttps://github.com/aux-di/opencv-samples\n", "tags": ["OpenCV", "Python"]}

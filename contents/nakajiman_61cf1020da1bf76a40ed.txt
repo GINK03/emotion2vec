@@ -1,0 +1,1 @@
+{"context": "https://github.com/baschtl/devise-token_authenticatable\nhttps://github.com/baschtl/devise-token_authenticatable\n", "tags": ["devise"]}

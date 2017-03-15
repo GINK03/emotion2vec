@@ -1,0 +1,1 @@
+{"context": "At last I found out a solution from stack overflow\nA very simple solution:\nstr=\"acbdef\"\nsize=${#str}\necho $size # 6\n\nAt last I found out a solution from [stack overflow](http://stackoverflow.com/a/17368090)\n\nA very simple solution:\n\n```sh\nstr=\"acbdef\"\nsize=${#str}\necho $size # 6\n```\n", "tags": ["string", "length", "shell"]}

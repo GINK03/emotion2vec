@@ -1,0 +1,1 @@
+{"tags": ["tcpdump", "Linux\u30b3\u30de\u30f3\u30c9"], "context": "# tcpdump -C 1 -w hoge.pcap\ntcpdump: hoge.pcap: Permission denied\n\n# tcpdump -C 1 -Z root -w hoge.pcap\n\n```\n# tcpdump -C 1 -w hoge.pcap\ntcpdump: hoge.pcap: Permission denied\n```\n\n```\n# tcpdump -C 1 -Z root -w hoge.pcap\n```\n"}

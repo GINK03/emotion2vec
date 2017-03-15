@@ -1,0 +1,1 @@
+{"tags": ["JavaScript", "FizzBuzz"], "context": " More than 1 year has passed since last update.for(i=0;i++<100;)print(i%15?i%5?i%3?i:f=\"Fizz\":b=\"Buzz\":f+b)\n\n\n\n```js\nfor(i=0;i++<100;)print(i%15?i%5?i%3?i:f=\"Fizz\":b=\"Buzz\":f+b)\n```"}

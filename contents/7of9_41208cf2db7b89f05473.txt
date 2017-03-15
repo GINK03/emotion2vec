@@ -1,0 +1,1 @@
+{"tags": ["GNU", "date", "WRF"], "context": "http://qiita.com/7of9/items/b9c90e27593fae16252b\n\u306e\u7d9a\u304d\n$ date --date=\"20161020 1 days ago\" \"+%Y%m%d\"\n20161019\n\nhttp://qiita.com/7of9/items/b9c90e27593fae16252b\n\u306e\u7d9a\u304d\n\n\n```\n$ date --date=\"20161020 1 days ago\" \"+%Y%m%d\"\n20161019\n```\n"}

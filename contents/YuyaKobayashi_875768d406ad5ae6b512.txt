@@ -1,0 +1,1 @@
+{"tags": ["Scala", "\u64ec\u4f3c\u4e71\u6570", "\u4e71\u6570"], "context": "\n\nPackage\nimport scala.util.Random\n\n\nseed\nimport scala.util.Random\n\nRandom.seed(System.currentTimeMillis())\n\n# Package\n\n```scala\nimport scala.util.Random\n```\n\n# seed\n\n```scala\nimport scala.util.Random\n\nRandom.seed(System.currentTimeMillis())\n```\n"}

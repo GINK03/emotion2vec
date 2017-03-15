@@ -1,0 +1,1 @@
+{"context": "aws s3 cp s3://src/hoge/ s3://dst/fuge/ --exclude \"*\" --include \"2016-11-*\" --recursive --profile PROFILE\n\n```bash\naws s3 cp s3://src/hoge/ s3://dst/fuge/ --exclude \"*\" --include \"2016-11-*\" --recursive --profile PROFILE\n```\n", "tags": ["S3", "AmazonWebServices", "aws-cli"]}

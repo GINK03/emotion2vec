@@ -1,0 +1,1 @@
+{"tags": ["mailcatcher", "SMTP", "vagrant"], "context": "https://mailcatcher.me/\nUsing Vagrant\nmailcatcher --http-ip 192.168.33.10\n\nhttps://mailcatcher.me/\n\nUsing Vagrant\n\n```\nmailcatcher --http-ip 192.168.33.10\n```\n"}

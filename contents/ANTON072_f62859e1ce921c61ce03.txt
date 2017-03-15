@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.defaults write 'com.parallels.Parallels Desktop' 'HID Host Hook.CAPSLOCK Sync' -bool false\n\n\n``` \ndefaults write 'com.parallels.Parallels Desktop' 'HID Host Hook.CAPSLOCK Sync' -bool false\n```", "tags": ["Parallels"]}

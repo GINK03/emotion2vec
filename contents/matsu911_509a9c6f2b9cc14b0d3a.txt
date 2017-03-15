@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.http://strandcode.com/2013/08/23/embedding-devise-forms-in-twitter-bootstrap-modals/\nhttp://strandcode.com/2013/08/23/embedding-devise-forms-in-twitter-bootstrap-modals/\n", "tags": ["Rails", "devise", "bootstrap"]}

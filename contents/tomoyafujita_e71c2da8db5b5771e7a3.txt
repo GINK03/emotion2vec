@@ -1,0 +1,1 @@
+{"context": "find . -type f | xargs nkf -s -Lw --overwrite (EUC, UNIX)\nfind . -type f | xargs nkf -e -Lu --overwrite (SJIS, WIN)\nfind . -type f | xargs nkf -s -Lw --overwrite (EUC, UNIX)\nfind . -type f | xargs nkf -e -Lu --overwrite (SJIS, WIN)\n", "tags": ["command"]}

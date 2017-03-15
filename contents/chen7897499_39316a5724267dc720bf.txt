@@ -1,0 +1,1 @@
+{"context": "http://kyrylo.org/posts/so-what-is-binding-pry-exactly\n\u8ba9BasicObject\u4e5f\u652f\u6301binding\nhttps://bugs.ruby-lang.org/issues/5360\nhttp://kyrylo.org/posts/so-what-is-binding-pry-exactly\n\n\u8ba9BasicObject\u4e5f\u652f\u6301binding\nhttps://bugs.ruby-lang.org/issues/5360\n\n\n", "tags": ["pry"]}
