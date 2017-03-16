@@ -120,32 +120,36 @@ def train():
   sentences = []
   answers   = []
   print("importing data from algebra...")
-  for dbi, name in enumerate(glob.glob('./algebra/*.key')[:50000]):
-    pure_name = name.replace('.key', '')
-    print("now loading db iter %d"%dbi)
-    tagvec = msgpack.unpackb(open('%s.key'%pure_name, 'rb').read(), object_hook=mn.decode)
-    fasttext = msgpack.unpackb(open('%s.value'%pure_name, 'rb').read(), object_hook=mn.decode)
-    sentences.append(fasttext)
-    answers.append(tagvec)
-  print('nb sequences:', len(sentences))
+  model = build_model(maxlen=maxlen, in_dim=256, out_dim=1024)
+  for slicer in range(0,10):
+    for dbi, name in enumerate(glob.glob('./algebra/*.key')[5000*slicer:5000*slicer + 5000]):
+      pure_name = name.replace('.key', '')
+      if dbi%500 == 0:
+        print("now loading db iter %d"%dbi)
+      tagvec = msgpack.unpackb(open('%s.key'%pure_name, 'rb').read(), object_hook=mn.decode)
+      fasttext = msgpack.unpackb(open('%s.value'%pure_name, 'rb').read(), object_hook=mn.decode)
+      sentences.append(fasttext)
+      answers.append(tagvec)
+    print('nb sequences:', len(sentences))
 
-  print('Vectorization...')
-  X = np.zeros((len(sentences), maxlen, 256), dtype=np.bool)
-  y = np.zeros((len(sentences), len(tagvec)), dtype=np.bool)
-  for i, sentence in enumerate(sentences):
-    for t, term_vec in enumerate(sentence[:maxlen]):
-      X[i, t, :] = term_vec
-    y[i, :] = answers[i]
+    print('Vectorization...')
+    X = np.zeros((len(sentences), maxlen, 256), dtype=np.bool)
+    y = np.zeros((len(sentences), len(tagvec)), dtype=np.bool)
+    for i, sentence in enumerate(sentences):
+      for t, term_vec in enumerate(sentence[:maxlen]):
+        X[i, t, :] = term_vec
+      y[i, :] = answers[i]
 
-  model = build_model(maxlen=maxlen, in_dim=256, out_dim=len(tagvec))
-  for iteration in range(1, 20):
-    print()
-    print('-' * 50)
-    print('Iteration', iteration)
-    model.fit(X, y, batch_size=128, nb_epoch=1)
-    #sys.exit()
-    MODEL_NAME = "./models/snapshot.%09d.model"%(iteration)
-    model.save(MODEL_NAME)
+    for iteration in range(1, 5):
+      print()
+      print('-' * 50)
+      print('Iteration', iteration)
+      model.fit(X, y, batch_size=128, nb_epoch=1)
+      #sys.exit()
+      MODEL_NAME = "./models/snapshot.%09d_%09d.model"%(slicer, iteration)
+      model.save(MODEL_NAME)
+    del X
+    del y
 
 def eval():
   INPUT_NAME = "./source/bocchan.txt"
