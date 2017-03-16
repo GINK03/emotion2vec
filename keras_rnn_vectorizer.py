@@ -56,11 +56,12 @@ mn.patch()
 import MeCab
 import plyvel
 def preexe():
-  # キーのベクタライズ
-  tag_index = {}
+  # タグのベクタライズ
+  # 1024個に限定
+  tag_freq = {}
   for gi, name in enumerate(glob.glob('./contents/*')):
     if gi%500 == 0:
-      print("now iter %d"%gi)
+      print("now tag-building iter %d"%gi)
     data = open(name, 'r').read()
     try:
       obj = json.loads(data)
@@ -68,18 +69,23 @@ def preexe():
       continue
     tags = obj['tags']
     for tag in tags:
-      if tag_index.get(tag) is None:
-        tag_index[tag] = len(tag_index)
+      if tag_freq.get(tag) is None: tag_freq[tag] = 0
+      tag_freq[tag] += 1
+  tag_index = {}
+  for tfi, (tag, freq) in enumerate(sorted(tag_freq.items(), key=lambda x:x[1]*-1)[:1024]):
+    tag_index[tag] = tfi
+    print(tag, tfi)
   # タグデータの保存
   open('tag_index.pkl', 'wb').write(pickle.dumps(tag_index))
   # 分かち書きと量子化
   term_vec = pickle.loads(open('./term_vec.pkl', 'rb').read())
   m = MeCab.Tagger('-Owakati')
-  db = plyvel.DB('tagvec_fasttext.b.ldb', create_if_missing=True)
+  db = plyvel.DB('tagvec_fasttext.a.ldb', create_if_missing=True)
   for gi, name in enumerate(glob.glob('./contents/*')):
     if gi%50 == 0:
-      print("now iter %d"%gi)
-    data = open(name, 'r').read()
+      print("now kvs-generating iter %d"%gi)
+    with open(name, 'r') as f:
+      data = f.read()
     try:
       obj = json.loads(data)
     except:
@@ -100,7 +106,11 @@ def preexe():
     #print(context)
     tagvec = [0.]*len(tag_index)
     for tag in tags:
-      tagvec[tag_index[tag]] = 1.
+      try:
+        tagvec[tag_index[tag]] = 1.
+      except:
+        # 見つからなかったtagは無視する
+        pass
     tagvec_enc = msgpack.packb(tagvec, default=mn.encode)
     fasttext_enc = msgpack.packb(np.array(contexts), default=mn.encode)
     db.put(fasttext_enc, tagvec_enc)
@@ -114,7 +124,7 @@ def train():
   db = plyvel.DB('tagvec_fasttext.ldb', create_if_missing=False)
   print("importing data from db...")
   for dbi, (fasttext, tagvec) in enumerate(db):
-    print(dbi)
+    print("now loading db iter %d"%dbi)
     tagvec = msgpack.unpackb(tagvec, object_hook=mn.decode)
     fasttext = msgpack.unpackb(fasttext, object_hook=mn.decode)
     sentences.append(fasttext)
