@@ -1,18 +1,12 @@
-'''Example script to generate text from Nietzsche's writings.
-At least 20 epochs are required before the generated text
-starts sounding coherent.
-It is recommended to run this script on GPU, as recurrent
-networks are quite computationally intensive.
-If you try this script on new data, make sure your corpus
-has at least ~100k characters. ~1M is better.
-'''
-
 from __future__ import print_function
-from keras.models import Sequential, load_model
-from keras.layers import Dense, Activation
-from keras.layers import LSTM, GRU, SimpleRNN
-from keras.optimizers import RMSprop, Adam
-from keras.utils.data_utils import get_file
+from keras.models               import Sequential, load_model
+from keras.layers               import Dense, Activation
+from keras.layers               import LSTM, GRU, SimpleRNN
+from keras.optimizers           import RMSprop, Adam
+from keras.utils.data_utils     import get_file
+from keras.layers.normalization import BatchNormalization as BN
+from keras.layers.noise         import GaussianNoise as GN
+from keras.layers.noise         import GaussianDropout as GD
 import numpy as np
 import random
 import sys
@@ -20,13 +14,17 @@ import sys
 def build_model(maxlen=None, out_dim=None, in_dim=256):
   print('Build model...')
   model = Sequential()
-  model.add(LSTM(128, return_sequences=True, input_shape=(maxlen, in_dim)))
-  model.add(LSTM(128))
+  model.add(GRU(128*5, return_sequences=True, input_shape=(maxlen, in_dim)))
+  model.add(BN())
+  model.add(GN(0.2))
+  model.add(GRU(128*5, return_sequences=False, input_shape=(maxlen, in_dim)))
+  #model.add(BN())
+  model.add(GN(0.2))
   model.add(Dense(out_dim))
   model.add(Activation('linear'))
   model.add(Activation('sigmoid'))
   optimizer = Adam()
-  model.compile(loss='mse', optimizer=optimizer) 
+  model.compile(loss='binary_crossentropy', optimizer=optimizer) 
   return model
 
 
@@ -77,10 +75,9 @@ def preexe():
     print(tag, tfi)
   # タグデータの保存
   open('tag_index.pkl', 'wb').write(pickle.dumps(tag_index))
+  term_vec = pickle.loads(open('term_vec.pkl', 'rb').read())
   # 分かち書きと量子化
-  term_vec = pickle.loads(open('./term_vec.pkl', 'rb').read())
   m = MeCab.Tagger('-Owakati')
-  db = plyvel.DB('tagvec_fasttext.a.ldb', create_if_missing=True)
   for gi, name in enumerate(glob.glob('./contents/*')):
     if gi%50 == 0:
       print("now kvs-generating iter %d"%gi)
@@ -98,7 +95,7 @@ def preexe():
     except AttributeError as e:
       continue
     contexts = []
-    for term in terms[:200]:
+    for term in terms[:400]:
       try:
         contexts.append(term_vec[term]) 
       except KeyError as e:
@@ -112,21 +109,22 @@ def preexe():
         # 見つからなかったtagは無視する
         pass
     tagvec_enc = msgpack.packb(tagvec, default=mn.encode)
+    last_name = name.split('/')[-1]
+    open('algebra/%s.key'%last_name, 'wb').write(tagvec_enc)
     fasttext_enc = msgpack.packb(np.array(contexts), default=mn.encode)
-    db.put(fasttext_enc, tagvec_enc)
-  print("all entry is %d"%len(db) )
+    open('algebra/%s.value'%last_name, 'wb').write(fasttext_enc)
 
 def train():
   maxlen = 200
   step = 1
   sentences = []
   answers   = []
-  db = plyvel.DB('tagvec_fasttext.ldb', create_if_missing=False)
-  print("importing data from db...")
-  for dbi, (fasttext, tagvec) in enumerate(db):
+  print("importing data from algebra...")
+  for dbi, name in enumerate(glob.glob('./algebra/*.key')[:50000]):
+    pure_name = name.replace('.key', '')
     print("now loading db iter %d"%dbi)
-    tagvec = msgpack.unpackb(tagvec, object_hook=mn.decode)
-    fasttext = msgpack.unpackb(fasttext, object_hook=mn.decode)
+    tagvec = msgpack.unpackb(open('%s.key'%pure_name, 'rb').read(), object_hook=mn.decode)
+    fasttext = msgpack.unpackb(open('%s.value'%pure_name, 'rb').read(), object_hook=mn.decode)
     sentences.append(fasttext)
     answers.append(tagvec)
   print('nb sequences:', len(sentences))
@@ -140,14 +138,14 @@ def train():
     y[i, :] = answers[i]
 
   model = build_model(maxlen=maxlen, in_dim=256, out_dim=len(tagvec))
-  for iteration in range(1, 10000):
+  for iteration in range(1, 20):
     print()
     print('-' * 50)
     print('Iteration', iteration)
-    model.fit(X, y, batch_size=128, epochs=1)
+    model.fit(X, y, batch_size=128, nb_epoch=1)
     #sys.exit()
-    #MODEL_NAME = "./models/%s.%09d.model"%(INPUT_NAME.split('/').pop(), iteration)
-    #model.save(MODEL_NAME)
+    MODEL_NAME = "./models/snapshot.%09d.model"%(iteration)
+    model.save(MODEL_NAME)
 
 def eval():
   INPUT_NAME = "./source/bocchan.txt"
