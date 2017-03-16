@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.https://github.com/schneems/explain_shell \u304c\u53c2\u8003\u306b\u306a\u308a\u307e\u3059\u3002\nhttps://github.com/schneems/explain_shell \u304c\u53c2\u8003\u306b\u306a\u308a\u307e\u3059\u3002", "tags": ["ShellScript", "Gem"]}

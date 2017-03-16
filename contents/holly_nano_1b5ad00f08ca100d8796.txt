@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.cocos\u30b3\u30de\u30f3\u30c9\u306b\u5438\u53ce\u3055\u308c\u305f\u3088\u3046\u3067\u3059\u3002\nhttp://www.cocos2d-x.org/wiki/Cocos_gen-libs\ncocos\u30b3\u30de\u30f3\u30c9\u306b\u5438\u53ce\u3055\u308c\u305f\u3088\u3046\u3067\u3059\u3002\n\nhttp://www.cocos2d-x.org/wiki/Cocos_gen-libs\n", "tags": ["cocos2d-x"]}

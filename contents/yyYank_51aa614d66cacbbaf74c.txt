@@ -1,0 +1,1 @@
+{"context": "\u3084\u3063\u3066\u3044\u307e\u3059\u3002\n\u9006\u5f15\u304dKotlin\n\n\n\u3084\u3063\u3066\u3044\u307e\u3059\u3002\n\n[\u9006\u5f15\u304dKotlin](http://kotlin-rev-solution.herokuapp.com/)\n", "tags": ["Kotlin"]}

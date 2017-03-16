@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.$ diff -r -q -x 'hoge' -x 'moge' /dir1 /dir2\n\n\n```terminal\n$ diff -r -q -x 'hoge' -x 'moge' /dir1 /dir2\n```\n\n\n\n", "tags": ["UNIX", "Terminal", "OSX", "diff"]}

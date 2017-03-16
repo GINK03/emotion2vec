@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.echo \"aaa bbbb ccc\" |xargs -n 1 echo \"tomo\" \"foo\"\necho \"aaa bbbb ccc\" |xargs -n 1 echo \"tomo\" \"foo\"\n", "tags": ["command"]}

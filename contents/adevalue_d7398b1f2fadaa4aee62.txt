@@ -1,0 +1,1 @@
+{"context": "\n\n\n\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8\n\u64cd\u4f5c\n\n\n\n\nContrl + Shift + u\n\u7b87\u6761\u66f8\u304d\u306e\u30ea\u30b9\u30c8\n\n\n\n\n| \u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8 | \u64cd\u4f5c |\n|:------------:|:------------:|\n| Contrl + Shift + u | \u7b87\u6761\u66f8\u304d\u306e\u30ea\u30b9\u30c8 |\n", "tags": ["Evernote"]}

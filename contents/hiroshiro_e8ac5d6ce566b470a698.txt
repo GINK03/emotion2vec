@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.https://gist.github.com/hiroshiro/8962833\n\nhttps://gist.github.com/hiroshiro/8962833", "tags": ["\u4fdd\u5b58", "Ruby", "gist", "getHttpJpg.rb", "jpg"]}

@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u8a18\u4e8b\u306f\u3053\u3061\u3089\nhttp://scala-tutorial.hatenablog.com/entry/2014/02/21/034227\n\u8a18\u4e8b\u306f\u3053\u3061\u3089\n\nhttp://scala-tutorial.hatenablog.com/entry/2014/02/21/034227", "tags": ["Scala", "\u7d71\u8a08"]}

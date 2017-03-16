@@ -1,0 +1,1 @@
+{"context": "http://stackoverflow.com/questions/9336596/rvm-installation-not-working-rvm-is-not-a-function\nhttp://stackoverflow.com/questions/9336596/rvm-installation-not-working-rvm-is-not-a-function\n\n", "tags": ["rvm"]}

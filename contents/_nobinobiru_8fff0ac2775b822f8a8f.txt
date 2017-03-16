@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.var a = setInterval(function(){\n  alert(\"foo\")},1000);\n\nclearTimeout(a);\n\n\n\n\n\n```\nvar a = setInterval(function(){\n  alert(\"foo\")},1000);\n\nclearTimeout(a);\n\n```\n\n\n", "tags": ["js"]}

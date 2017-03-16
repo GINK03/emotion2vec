@@ -1,0 +1,1 @@
+{"context": "crontab \u306b\u3001\nAWS_CONFIG_FILE=\"/path/to/.aws/config\"\n\ncrontab \u306b\u3001\n\n```\nAWS_CONFIG_FILE=\"/path/to/.aws/config\"\n```\n", "tags": ["AWS", "cli"]}

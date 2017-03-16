@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.~/.vimrc\u306b\u8ffd\u8a18\nset backspace=indent,eol,start\n\n~/.vimrc\u306b\u8ffd\u8a18\n\n```\nset backspace=indent,eol,start\n```", "tags": ["Linux", "vi"]}

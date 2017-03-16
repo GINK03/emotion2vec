@@ -1,0 +1,1 @@
+{"context": "svn checkout \\\n    --username alice \\\n    --password P@ssw0rd \\\n    --non-interactive \\\n    --trust-server-cert \\\n    https://svn.example.com/src\n\n\n\n```\nsvn checkout \\\n    --username alice \\\n    --password P@ssw0rd \\\n    --non-interactive \\\n    --trust-server-cert \\\n    https://svn.example.com/src\n```\n", "tags": ["svn"]}

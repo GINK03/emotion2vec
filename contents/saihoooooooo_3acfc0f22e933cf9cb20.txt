@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\u306f\u3066\u306a\u30d6\u30ed\u30b0\u306b\u66f8\u304d\u307e\u3057\u305f\u3002\nhttp://saihoooooooo.hatenablog.com/entry/2013/12/06/000700\n\u306f\u3066\u306a\u30d6\u30ed\u30b0\u306b\u66f8\u304d\u307e\u3057\u305f\u3002\n\nhttp://saihoooooooo.hatenablog.com/entry/2013/12/06/000700", "tags": ["Hubot", "CoffeeScript"]}

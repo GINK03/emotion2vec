@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\nSSL validation of HTTPS requests is disabled.\nhttp://stackoverflow.com/questions/22991561/chef-solo-ssl-warning-when-provisioning\n# SSL validation of HTTPS requests is disabled.\nhttp://stackoverflow.com/questions/22991561/chef-solo-ssl-warning-when-provisioning\n", "tags": ["vagrant", "chef-solo"]}

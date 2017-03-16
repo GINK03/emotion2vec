@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.request.scheme + \"://\" + request.host_with_port + url(:controller, :method, :param => :value)\n\n\n```ruby\nrequest.scheme + \"://\" + request.host_with_port + url(:controller, :method, :param => :value)\n```\n\n", "tags": ["Padrino", "rack", "Ruby"]}

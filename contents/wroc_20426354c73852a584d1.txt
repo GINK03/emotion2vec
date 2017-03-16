@@ -1,0 +1,1 @@
+{"context": "\ncircle.yml\nmachine:\n  pre:\n    - sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1\n\n\n```ruby:circle.yml\nmachine:\n  pre:\n    - sudo curl --output /usr/local/bin/phantomjs https://s3.amazonaws.com/circle-downloads/phantomjs-2.1.1\n```\n", "tags": ["CircleCI", "Phontomjs", "poltergeist", "RSpec", "Ruby"]}

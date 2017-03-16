@@ -1,0 +1,1 @@
+{"tags": ["scp", "Linux"], "context": "scp test.xml root@192.168.0.1:/root/test.xml\n\n```bash\nscp test.xml root@192.168.0.1:/root/test.xml\n```\n"}

@@ -1,0 +1,1 @@
+{"context": "\ncurl_example.sh\ncurl --user id:pass \\\n     -X POST \\\n     -d name=value\n     \"http://localhost:8080/\"\n\n\n```bash:curl_example.sh\ncurl --user id:pass \\\n     -X POST \\\n     -d name=value\n     \"http://localhost:8080/\"\n```\n", "tags": ["memo"]}

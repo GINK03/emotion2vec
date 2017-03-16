@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.<?for(;$i++<100;)echo $i%15?$i%5?$i%3?$i:Fizz:Buzz:FizzBuzz,\"\n\";\n\n\n\n```php\n<?for(;$i++<100;)echo $i%15?$i%5?$i%3?$i:Fizz:Buzz:FizzBuzz,\"\n\";\n```", "tags": ["PHP", "FizzBuzz"]}

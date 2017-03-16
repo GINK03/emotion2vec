@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.pip freeze > poko.txt\npip install -r poko.txt\nrm poko.txt\n\n\u3067\n\n```\npip freeze > poko.txt\npip install -r poko.txt\nrm poko.txt\n```\n\n\u3067", "tags": ["pip", "Pyhton"]}

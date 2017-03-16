@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\ncmd+, \u8a2d\u5b9a\u3092\u958b\u304f\n\n\"show_full_path\": true \u3092\u8db3\u3059\n\n\u4ee5\u4e0a\n\n1. `cmd+,` \u8a2d\u5b9a\u3092\u958b\u304f\n2. ````\"show_full_path\": true```` \u3092\u8db3\u3059\n\n\n\u4ee5\u4e0a\n\n", "tags": ["SublimeText"]}

@@ -1,0 +1,1 @@
+{"context": "\n\u30cd\u30bf\u5143\n\n\n\nhttp://y-yagi.tumblr.com/post/150244664010/bundler-1130%E3%81%A7gemfile%E3%81%AB-github \n\n\n\nbundle config github.https true\n- \u30cd\u30bf\u5143\n    - http://y-yagi.tumblr.com/post/150244664010/bundler-1130%E3%81%A7gemfile%E3%81%AB-github \n\n`bundle config github.https true`\n", "tags": ["Ruby", "bundler"]}

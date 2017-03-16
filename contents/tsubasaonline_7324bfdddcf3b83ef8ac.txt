@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\nbash\nalias im_here=\"date '+%H:%M - %A, %d %B %Y';echo 'Forget me not...'\"\n\n\n```lang:bash\nalias im_here=\"date '+%H:%M - %A, %d %B %Y';echo 'Forget me not...'\"\n```\n", "tags": ["Bash", "UNIX"]}

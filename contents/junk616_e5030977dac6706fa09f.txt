@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\nchange 45rpm\nfind ./ -type f -name \"*.wav\"| xargs -I{} ffmpeg -i {} -af \"atempo=1.36363636364\" ../45rpm/{}\n\n# change 45rpm\n```\nfind ./ -type f -name \"*.wav\"| xargs -I{} ffmpeg -i {} -af \"atempo=1.36363636364\" ../45rpm/{}\n```\n", "tags": ["ffmpeg"]}

@@ -1,0 +1,1 @@
+{"context": "IPython\u3092virtualenv\u3067\u8d77\u52d5\u3001\u7d42\u4e86\nsource my-venv/bin/activate\n\n(my-venv) $ ipython notebook\n\n(my-venv) $ deactivate\n\nIPython\u3092virtualenv\u3067\u8d77\u52d5\u3001\u7d42\u4e86\n\n```\nsource my-venv/bin/activate\n\n(my-venv) $ ipython notebook\n\n(my-venv) $ deactivate\n```\n", "tags": ["Python", "virtualenv", "IPython"]}

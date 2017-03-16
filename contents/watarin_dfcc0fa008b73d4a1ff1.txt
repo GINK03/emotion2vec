@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.Cygwin\u3067telnet\u3044\u308c\u308b\u3068\u304d\u306f\u3001 inetutils package\nCygwin\u3067telnet\u3044\u308c\u308b\u3068\u304d\u306f\u3001 inetutils package\n", "tags": ["Cygwin", "telnet"]}

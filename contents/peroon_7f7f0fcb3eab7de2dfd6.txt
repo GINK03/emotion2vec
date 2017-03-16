@@ -1,0 +1,1 @@
+{"context": "sudo ln -s /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl\n\n```\nsudo ln -s /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl\n```\n", "tags": ["Mac", "SublimeText"]}

@@ -1,0 +1,1 @@
+{"tags": ["sed"], "context": " More than 1 year has passed since last update.$ sed 1,${line}d\n\n$ seq 1 10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\n$ seq 1 10 | sed 1,3d\n4\n5\n6\n7\n8\n9\n10\n\n```bash\n$ sed 1,${line}d\n```\n\n```bash\n$ seq 1 10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n```\n\n```bash\n$ seq 1 10 | sed 1,3d\n4\n5\n6\n7\n8\n9\n10\n```\n"}

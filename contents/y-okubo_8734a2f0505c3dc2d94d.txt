@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\nFind What: :(\\w+)\\s*=>\n\nReplace With: $1\\:\n\n\n* Find What: `:(\\w+)\\s*=>`\n* Replace With: `$1\\:`\n", "tags": ["SublimeText3", "Ruby", "tips"]}

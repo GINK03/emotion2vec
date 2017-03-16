@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.#!/bin/bash\n\nfor F in *.png\ndo\n  convert $F ${F/.png/.jpg}\ndone\n\n```.sh\n#!/bin/bash\n\nfor F in *.png\ndo\n  convert $F ${F/.png/.jpg}\ndone\n```", "tags": ["ImageMagick"]}

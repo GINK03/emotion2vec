@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.#{}\u3067\u56f2\u3080\u3060\u3051\u3060\u3063\u305f\uff0e\n:javascript\n var version = #{@version};\n\n\n`#{}`\u3067\u56f2\u3080\u3060\u3051\u3060\u3063\u305f\uff0e\n\n```haml\n:javascript\n var version = #{@version};\n```", "tags": ["haml"]}

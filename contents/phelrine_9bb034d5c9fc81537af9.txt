@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.tmux list-buffer | percol | cut -f1 -d: | xargs tmux paste-buffer -b\n\n\n```sh:\ntmux list-buffer | percol | cut -f1 -d: | xargs tmux paste-buffer -b\n```", "tags": ["tmux"]}

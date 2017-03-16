@@ -1,0 +1,1 @@
+{"context": " More than 1 year has passed since last update.\n\n\u4f8b\n$ systemctl restart httpd\nFailed to issue method call: Access denied\n$ sudo !!\nsudo systemctl restart httpd\n\n## \u4f8b\n\n```bash:\n$ systemctl restart httpd\nFailed to issue method call: Access denied\n$ sudo !!\nsudo systemctl restart httpd\n```\n", "tags": ["sudo"]}
