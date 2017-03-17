@@ -10,6 +10,17 @@ from keras.layers.noise         import GaussianDropout as GD
 import numpy as np
 import random
 import sys
+import tensorflow               as tf 
+tf.logging.set_verbosity(tf.logging.ERROR)
+import glob
+import json
+import pickle
+import msgpack
+import msgpack_numpy as mn
+mn.patch()
+import MeCab
+import plyvel
+from itertools import cycle as Cycle
 
 def build_model(maxlen=None, out_dim=None, in_dim=256):
   print('Build model...')
@@ -43,16 +54,6 @@ def dynast(preds, temperature=1.0):
     preds = exp_preds / np.sum(exp_preds)
     return np.argmax(preds)
 
-import glob
-import json
-import sys
-import pickle
-import numpy as np
-import msgpack
-import msgpack_numpy as mn
-mn.patch()
-import MeCab
-import plyvel
 def preexe():
   # タグのベクタライズ
   # 1024個に限定
@@ -117,11 +118,12 @@ def preexe():
 def train():
   maxlen = 200
   step = 1
-  sentences = []
-  answers   = []
   print("importing data from algebra...")
   model = build_model(maxlen=maxlen, in_dim=256, out_dim=1024)
-  for slicer in range(0,10):
+  for ci, slicer in enumerate(Cycle(list(range(0,10)))):
+    print("iter ci=%d, slicer=%d"%(ci, slicer))
+    sentences = []
+    answers   = []
     for dbi, name in enumerate(glob.glob('./algebra/*.key')[5000*slicer:5000*slicer + 5000]):
       pure_name = name.replace('.key', '')
       if dbi%500 == 0:
@@ -139,72 +141,44 @@ def train():
       for t, term_vec in enumerate(sentence[:maxlen]):
         X[i, t, :] = term_vec
       y[i, :] = answers[i]
-
-    for iteration in range(1, 5):
+    
+    for iteration in range(1, 4):
       print()
       print('-' * 50)
       print('Iteration', iteration)
       model.fit(X, y, batch_size=128, nb_epoch=1)
-      #sys.exit()
-      MODEL_NAME = "./models/snapshot.%09d_%09d.model"%(slicer, iteration)
-      model.save(MODEL_NAME)
+    MODEL_NAME = "./models/snapshot.%09d.model"%(ci)
+    model.save(MODEL_NAME)
     del X
     del y
+    if ci > 100:
+      break
 
-def eval():
-  INPUT_NAME = "./source/bocchan.txt"
-  MODEL_NAME = "./models/%s.model"%(INPUT_NAME.split('/').pop())
-
-  #path = get_file('nietzsche.txt', origin="https://s3.amazonaws.com/text-datasets/nietzsche.txt")
-  #text = open(path).read().lower()
-  text = open(INPUT_NAME).read()
-  print('corpus length:', len(text))
-
-  chars = sorted(list(set(text)))
-  print('total chars:', len(chars))
-  char_indices = dict((c, i) for i, c in enumerate(chars))
-  indices_char = dict((i, c) for i, c in enumerate(chars))
-  maxlen = 40
-  step = 3
-  sentences = []
-  next_chars = []
-  for i in range(0, len(text) - maxlen, step):
-    sentences.append(text[i: i + maxlen])
-    next_chars.append(text[i + maxlen])
-  model = load_model(MODEL_NAME)
-
-  #for diversity in [0.2, 0.5, 1.0, 1.2]:
-  for diversity in [1.0, 1.2]:
-    print()
-    print('----- diversity:', diversity)
-    generated = ''
-    start_index = random.randint(0, len(text) - maxlen - 1)
-    sentence = text[start_index: start_index + maxlen]
-    generated += sentence
-    print('----- Generating with seed: "' + sentence + '"')
-    sys.stdout.write(generated)
-    #for i in range(400):
-    for i in range(200):
-      x = np.zeros((1, maxlen, len(chars)))
-      for t, char in enumerate(sentence):
-        x[0, t, char_indices[char]] = 1.
-      preds = model.predict(x, verbose=0)[0]
-      #next_index = sample(preds, diversity)
-      next_index = dynast(preds, diversity)
-      next_char = indices_char[next_index]
-      generated += next_char
-      sentence = sentence[1:] + next_char
-      sys.stdout.write(next_char)
-      sys.stdout.flush()
-    print()
-
-
+def pred():
+  model  = load_model(sorted(glob.glob('./*.model'))[-1] )
+  for name in glob.glob('./samples/*'):
+    text = open(name).read() * 10
+    #print(text)
+    tag_index = pickle.loads(open('tag_index.pkl', 'rb').read())
+    term_vec = pickle.loads(open('term_vec.pkl', 'rb').read())
+    m = MeCab.Tagger('-Owakati')
+    terms = m.parse(text).split()
+    contexts = []
+    for term in terms[:200]:
+      try:
+        contexts.append(term_vec[term]) 
+      except KeyError as e:
+        contexts.append(term_vec["ダミー"])
+    result = model.predict(np.array([contexts]))
+    result = {i:w for i,w in enumerate(result.tolist()[0])}
+    for tag, index in sorted(tag_index.items(), key=lambda x:result[x[1]]):
+      print(name, tag, result[index], index)
 def main():
   if '--preexe' in sys.argv:
      preexe()
   if '--train' in sys.argv:
      train()
-  if '--eval' in sys.argv:
-     eval()
+  if '--pred' in sys.argv:
+     pred()
 if __name__ == '__main__':
   main()
