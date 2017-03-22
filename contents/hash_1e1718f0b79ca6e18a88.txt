@@ -1,1 +1,0 @@
-{"tags": ["Clojure"], "context": " More than 1 year has passed since last update.(apply hash-map '(:a 1 :b 2))\n;; => {:a 1, :b 2}\n\n\n\n```\n(apply hash-map '(:a 1 :b 2))\n;; => {:a 1, :b 2}\n```"}

@@ -1,1 +1,0 @@
-{"tags": ["Bash", "command"], "context": "find . -name '*.jar' -exec grep -Hls ClassName {} \\;\n\n```\nfind . -name '*.jar' -exec grep -Hls ClassName {} \\;\n```\n"}

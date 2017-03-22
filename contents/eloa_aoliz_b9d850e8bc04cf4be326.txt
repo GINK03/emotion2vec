@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\nbraincrash_run.py\nfrom braincrash import Braincrash\nbc = Braincrash()\nbc.compile(\"\")\nbc.run()\n\n\n```py:braincrash_run.py\nfrom braincrash import Braincrash\nbc = Braincrash()\nbc.compile(\"\")\nbc.run()\n```\n", "tags": ["Braincrash", "Brainf*ck", "HelloWorld", "Python"]}

@@ -1,1 +1,0 @@
-{"context": "https://www.safaribooksonline.com/library/view/ruby-cookbook/0596523696/ch12s02.html\nhttps://www.safaribooksonline.com/library/view/ruby-cookbook/0596523696/ch12s02.html\n", "tags": ["RMagick"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update..radius{\n  border-radius: 20px;\n  -moz-border-radius: 20px;\n  -webkit-border-radius: 20px; }\n\n```css:\n.radius{\n  border-radius: 20px;\n  -moz-border-radius: 20px;\n  -webkit-border-radius: 20px; }\n```", "tags": ["CSS", "snippets", "CSS3"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.// from http://dean.edwards.name/weblog/2007/03/sniff/\nvar isMSIE = /@cc_on!@/!1;\n// from http://dean.edwards.name/weblog/2007/03/sniff/\nvar isMSIE = /*@cc_on!@*/!1;\n", "tags": ["js"]}

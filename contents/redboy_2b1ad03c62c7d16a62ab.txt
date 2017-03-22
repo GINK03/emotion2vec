@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\n\n\u53c2\u8003\nCordova\u306e\u74b0\u5883\u69cb\u7bc9\n###\u53c2\u8003\n[Cordova\u306e\u74b0\u5883\u69cb\u7bc9](http://qiita.com/7nanac/items/8a0a9e0ed05de5744958)\n", "tags": ["Cordova"]}

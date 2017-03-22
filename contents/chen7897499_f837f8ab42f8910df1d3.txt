@@ -1,1 +1,0 @@
-{"context": "disable-pry\n\nexit!\n\nhttps://github.com/pry/pry/blob/master/lib/pry/commands/disable_pry.rb\n```rb\ndisable-pry\n```\n\n```rb\nexit!\n```\n\nhttps://github.com/pry/pry/blob/master/lib/pry/commands/disable_pry.rb\n\n", "tags": ["pry"]}

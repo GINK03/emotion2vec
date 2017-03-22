@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u3075\u3063\u304b\u3064\u306e\u3058\u3085\u3082\u3093\n$ sudo discoveryutil mdnsactivedirectory yes\n\n\u3075\u3063\u304b\u3064\u306e\u3058\u3085\u3082\u3093\n\n```shell-session\n$ sudo discoveryutil mdnsactivedirectory yes\n```\n", "tags": ["Mac", "MacOSX", "Yosemite", "dns"]}

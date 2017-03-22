@@ -1,1 +1,0 @@
-{"context": "http://blog.ieknir.com/blog/how-to-deploy-to-coljars/\nhttp://blog.ieknir.com/blog/how-to-deploy-to-coljars/\n", "tags": ["Clojure"]}

@@ -1,1 +1,0 @@
-{"context": "\n<img width=\"537\" alt=\"\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2016-10-11 11.03.36.png\" src=\"https://qiita-image-store.s3.amazonaws.com/0/135794/4e685df4-6570-2b21-0c04-949e5471f6be.png\">\n", "tags": ["MacbookPro", "MacBook", "Mac", "MacOSX"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.buffer_path\u306b\u8a2d\u5b9a\u3057\u305fpath\u306btd-agent\u306e\u6a29\u9650\u3092\u4e0e\u3048\u3066\u304a\u3053\u3046\n\nbuffer_path\u306b\u8a2d\u5b9a\u3057\u305fpath\u306btd-agent\u306e\u6a29\u9650\u3092\u4e0e\u3048\u3066\u304a\u3053\u3046", "tags": ["td-agent", "fluentd"]}

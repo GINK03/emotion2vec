@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.val value = driver.findElement(By.id(\"input\")).getAttribute(\"value\")\n\n\n\n```scala\nval value = driver.findElement(By.id(\"input\")).getAttribute(\"value\")\n```\n\n", "tags": ["Selenium", "Scala"]}

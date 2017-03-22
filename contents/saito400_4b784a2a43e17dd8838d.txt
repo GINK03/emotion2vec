@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.ssh -i PATH_TO_KEY ec2-user@URL_TO_EC2\n\u2191\u306eec2-user@\u304c\u629c\u3051\u3066\u308b\n\nssh -i PATH_TO_KEY ec2-user@URL_TO_EC2\n\n\u2191\u306eec2-user@\u304c\u629c\u3051\u3066\u308b\n\n\n\n", "tags": ["AWS", "AmazonLinux"]}

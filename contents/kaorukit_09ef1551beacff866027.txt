@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u8abf\u3079\u305f\u3089\u3042\u3063\u305f\u3002\u30de\u30b8\u611f\u8b1d\nhttps://github.com/harasou/may-i-paste\n\u8abf\u3079\u305f\u3089\u3042\u3063\u305f\u3002\u30de\u30b8\u611f\u8b1d\nhttps://github.com/harasou/may-i-paste\n", "tags": ["iTerm2", "MacOSX"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.# visudo\n\nroot  ALL=(ALL)  ALL\nUSER  ALL=(ALL)  ALL <=\u8ffd\u8a18\n\n```\n# visudo\n```\n```sh\nroot  ALL=(ALL)  ALL\nUSER  ALL=(ALL)  ALL <=\u8ffd\u8a18\n```", "tags": ["CentOS6.x", "Linux"]}

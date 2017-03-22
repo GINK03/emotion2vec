@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.mix\u304b\u3089\u8abf\u3079\u3089\u308c\u308b\u3002\n$ mix phoenix.new -v\nPhoenix v1.1.4\n\nmix\u304b\u3089\u8abf\u3079\u3089\u308c\u308b\u3002\n\n```bash\n$ mix phoenix.new -v\nPhoenix v1.1.4\n```\n\n", "tags": ["Elixir", "Phoenix"]}

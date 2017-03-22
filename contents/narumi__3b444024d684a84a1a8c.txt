@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u7c21\u5358\u3002\n$ port install git-flow\n\n\u7c21\u5358\u3002\n\n```\n$ port install git-flow\n```\n", "tags": ["Mac", "MacOSX", "git-flow"]}

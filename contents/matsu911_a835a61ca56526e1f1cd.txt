@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u3053\u3093\u306a\u611f\u3058\u3002\n$ convert file.psd[0] file.png\n\nhttp://paranoid360.blogspot.jp/2011/04/imagemagickpsd.html\n\u3053\u3093\u306a\u611f\u3058\u3002\n\n```shell-session\n$ convert file.psd[0] file.png\n```\n\nhttp://paranoid360.blogspot.jp/2011/04/imagemagickpsd.html\n", "tags": ["ImageMagick"]}

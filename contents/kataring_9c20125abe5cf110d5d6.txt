@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\nOS X Mountain Lion \u307e\u305f\u306f Lion\n\nsudo killall -HUP mDNSResponder\n\n\n\n- OS X Mountain Lion \u307e\u305f\u306f Lion\n\n```\nsudo killall -HUP mDNSResponder\n```", "tags": ["Mac", "dns"]}

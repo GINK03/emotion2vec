@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\n\u30c7\u30a3\u30b9\u30af\u5bb9\u91cf\ndf -h  h\u306fhuman\u30e2\u30fc\u30c9\n\ncpu, load average\ntop\n\n\n* \u30c7\u30a3\u30b9\u30af\u5bb9\u91cf  \n`df -h`  h\u306fhuman\u30e2\u30fc\u30c9  \n* cpu, load average   \n`top`", "tags": ["\u30b5\u30fc\u30d0\u30fc\u7ba1\u7406", "\u30b5\u30fc\u30d0\u30fc", "Linux"]}

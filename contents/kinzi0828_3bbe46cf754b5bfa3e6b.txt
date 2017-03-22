@@ -1,1 +1,0 @@
-{"context": "\u74b0\u5883\u69cb\u7bc9\n\nRails\n\n\u53c2\u8003\nhttp://yamalabo.joho.fuk.kindai.ac.jp/wordpress/\n[\u74b0\u5883\u69cb\u7bc9](http://qiita.com/kinzi0828/items/ef0343bb5bf642ccae02)\n\n#Rails\n\n#\u53c2\u8003\nhttp://yamalabo.joho.fuk.kindai.ac.jp/wordpress/\n", "tags": ["Rails", "Ubuntu", "Bitcoin"]}

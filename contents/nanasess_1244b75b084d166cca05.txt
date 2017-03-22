@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.Linux \u3067\u3082, FreeBSD \u3067\u3082.\nnetstat -an | grep -e 'LISTEN *$'\n\nLinux \u3067\u3082, FreeBSD \u3067\u3082.\n\n```bash\nnetstat -an | grep -e 'LISTEN *$'\n```\n", "tags": ["shell", "FreeBSD", "Linux"]}

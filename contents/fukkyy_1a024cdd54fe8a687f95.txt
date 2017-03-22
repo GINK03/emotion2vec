@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.nmap -sT -O localhost\n\nnetstat -an\n\n\n```\nnmap -sT -O localhost\n```\n\n```\nnetstat -an\n```\n", "tags": ["UNIX"]}

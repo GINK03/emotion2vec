@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.du -sh /(\u8abf\u3079\u305f\u3044\u30c7\u30a3\u30ec\u30af\u30c8\u30ea)/*\n\u3068\u304b\ndu | sort -nr | more\n\u3068\u304b\n\ndu -sh /(\u8abf\u3079\u305f\u3044\u30c7\u30a3\u30ec\u30af\u30c8\u30ea)/*\n\n\u3068\u304b\n\ndu | sort -nr | more\n\n\u3068\u304b", "tags": ["du", "UNIX"]}

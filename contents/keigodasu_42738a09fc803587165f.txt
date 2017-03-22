@@ -1,1 +1,0 @@
-{"context": "\u30d0\u30b0\u3067\u3042\u304c\u3063\u3066\u305f\n\nhttps://issues.apache.org/jira/browse/HBASE-13788\n\n\u30d0\u30b0\u3067\u3042\u304c\u3063\u3066\u305f\n\n>https://issues.apache.org/jira/browse/HBASE-13788\n", "tags": ["hadoop", "HBase"]}

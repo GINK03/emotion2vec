@@ -1,1 +1,0 @@
-{"context": "Assume you have brew and cask are setup;\nbrew cask install julia\nvoila!\nAssume you have brew and cask are setup;\n\nbrew cask install julia\n\nvoila!\n", "tags": ["Julia", "DataScience"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.if exist hoge\\nul (\n    echo \"It's a directory.\"\n) else (\n    echo \"It's a file.\"\n)\n\n```dosbatch\nif exist hoge\\nul (\n    echo \"It's a directory.\"\n) else (\n    echo \"It's a file.\"\n)\n```\n", "tags": ["Windows", "bat"]}

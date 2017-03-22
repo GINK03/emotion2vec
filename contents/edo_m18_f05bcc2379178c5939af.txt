@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.if [ -n \"$OPTARG\" ]; then\n    suffix=$OPTARG\nelif [ -z \"$OPTARG\" ]; then\n    echo \"No option argument.\"\n    return 1\nfi;;\n\n\n```shell\nif [ -n \"$OPTARG\" ]; then\n\tsuffix=$OPTARG\nelif [ -z \"$OPTARG\" ]; then\n\techo \"No option argument.\"\n\treturn 1\nfi;;\n```", "tags": ["script", "If", "shell"]}

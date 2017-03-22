@@ -1,1 +1,0 @@
-{"context": "https://www.vultr.com/docs/install-mailcatcher-on-centos-7\nhttps://www.vultr.com/docs/install-mailcatcher-on-centos-7\n", "tags": ["development"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.https://github.com/plataformatec/devise/wiki/How-To:-OmniAuth-inside-localized-scope\nhttps://github.com/plataformatec/devise/wiki/How-To:-OmniAuth-inside-localized-scope\n", "tags": ["OmniAuth", "Rails"]}

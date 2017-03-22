@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.app/console assets:install --symlink web.\n`app/console assets:install --symlink web.`\n", "tags": ["Symfony2"]}

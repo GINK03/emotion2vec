@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.  def isSimulator\n    UIDevice.currentDevice.model.hasSuffix \"Simulator\"\n  end\n\n\n```\n  def isSimulator\n    UIDevice.currentDevice.model.hasSuffix \"Simulator\"\n  end\n```\n", "tags": ["RubyMotion"]}

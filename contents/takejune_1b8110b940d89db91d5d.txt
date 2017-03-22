@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.input\u8981\u7d20\u306b\n-webkit-appearance: none; \n\n\u3092\u6307\u5b9a\u3059\u308c\u3070OK\u3002\ninput\u8981\u7d20\u306b\n\n```\n-webkit-appearance: none; \n```\n\n\u3092\u6307\u5b9a\u3059\u308c\u3070OK\u3002", "tags": ["WebKit", "CSS"]}

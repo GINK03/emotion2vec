@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.find('#header').native.inner_html\n\n```rb\nfind('#header').native.inner_html\n```\n", "tags": ["Rails", "Capybara"]}

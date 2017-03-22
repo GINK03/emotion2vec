@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u74b0\u5883\nPython 3.5.0\nDjango 1.9.2\n\ntemplate.html\n{{ variable|date:\"Y/n/d G:i:s\" }} \n\n\n\n\u74b0\u5883\nPython 3.5.0\nDjango 1.9.2\n\n```template.html\n{{ variable|date:\"Y/n/d G:i:s\" }} \n```\n", "tags": ["Python", "Django"]}

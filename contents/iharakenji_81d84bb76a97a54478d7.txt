@@ -1,1 +1,0 @@
-{"context": "curl https://ip-ranges.amazonaws.com/ip-ranges.json | jq '.prefixes[] | select(.service==\"AMAZON\") | .ip_prefix'\n\n```shell-session\ncurl https://ip-ranges.amazonaws.com/ip-ranges.json | jq '.prefixes[] | select(.service==\"AMAZON\") | .ip_prefix'\n```\n", "tags": ["AWS", "curl", "jq"]}

@@ -1,1 +1,0 @@
-{"context": "\u30e1\u30e2\nsudo add-apt-repository ppa:ondrej/php\nsudo apt-get update\n\nsudo apt-get install php7.1 php7.1-common php7.1-xxx ...\n\n\u30e1\u30e2\n\n```shell-session\nsudo add-apt-repository ppa:ondrej/php\nsudo apt-get update\n\nsudo apt-get install php7.1 php7.1-common php7.1-xxx ...\n```\n", "tags": ["PHP", "PHP7.1", "ubuntu16.04"]}

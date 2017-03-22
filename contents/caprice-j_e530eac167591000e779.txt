@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.brew install homebrew/x11/terminator\nterminator\n\n\n\n\n```bash\nbrew install homebrew/x11/terminator\nterminator\n```\n", "tags": ["Terminal", "Mac"]}

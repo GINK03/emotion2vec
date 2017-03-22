@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\n\n\u53c2\u8003\n\nHow to set top-left alignment for UILabel for iOS application?\n\n# \u53c2\u8003\n- [How to set top-left alignment for UILabel for iOS application?](http://stackoverflow.com/questions/7192088/how-to-set-top-left-alignment-for-uilabel-for-ios-application)\n", "tags": ["Swift", "UILabel"]}

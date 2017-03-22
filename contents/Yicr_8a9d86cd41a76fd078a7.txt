@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update./Applications/eclipse/Eclipse.app/Contents/MacOS/eclipse -clean\n`/Applications/eclipse/Eclipse.app/Contents/MacOS/eclipse -clean`\n", "tags": ["Mac", "Eclipse", "command"]}

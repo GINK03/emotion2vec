@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.https://gist.github.com/gaspanik/9284658\nhttps://gist.github.com/gaspanik/9284658\n", "tags": ["Ruby", "rvm", "rbenv"]}

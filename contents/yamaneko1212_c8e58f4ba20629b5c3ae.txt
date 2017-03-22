@@ -1,1 +1,0 @@
-{"tags": ["Clojure"], "context": " More than 1 year has passed since last update.(defn big [st n] (> (count st) n))\n\n```clojure:\n(defn big [st n] (> (count st) n))\n```"}

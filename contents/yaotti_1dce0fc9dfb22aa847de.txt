@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.https://github.com/blog/542-introducing-resque\nhttps://github.com/blog/542-introducing-resque", "tags": ["Ruby", "KVS", "Redis", "Resque"]}

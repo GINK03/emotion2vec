@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.find ./ -name \"*.png\" | xargs mogrify -resize 128x396!\nfind ./ -name \"*.png\" | xargs mogrify -resize 128x396!", "tags": ["ImageMagick"]}

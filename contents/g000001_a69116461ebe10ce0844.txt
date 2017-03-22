@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u304a\u984c: CL\u3067Clojure\u306e#()\u3092\u4f5c\u3063\u3066\u307f\u3088\u3046\n\u304a\u984c: CL\u3067Clojure\u306e#()\u3092\u4f5c\u3063\u3066\u307f\u3088\u3046\n", "tags": ["common-lisp"]}

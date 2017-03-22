@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.use appendQueryParameter method:\n uri.buildUpon().appendQueryParameter(\"limit\", \"3\").build();\nuse appendQueryParameter method:\n uri.buildUpon().appendQueryParameter(\"limit\", \"3\").build();", "tags": ["Android", "sqlite", "limit", "SQL"]}

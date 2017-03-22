@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\nbcp_out\nbcp DB_name..table_name out \"%(PATH)%\\file_name.csv\" -c -S Server -U user -P pass\n\n\n\n```sql:bcp_out\nbcp DB_name..table_name out \"%(PATH)%\\file_name.csv\" -c -S Server -U user -P pass\n```\n\n", "tags": ["SQLServer"]}

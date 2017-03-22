@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.Boot \u3067 Leiningen \u306e\u3088\u3046\u306a Checkout dependencies \u3092\u5b9f\u73fe\u3059\u308b\n[Boot \u3067 Leiningen \u306e\u3088\u3046\u306a Checkout dependencies \u3092\u5b9f\u73fe\u3059\u308b](http://ayato.hateblo.jp/entry/20150514/1431594000_1)\n", "tags": ["Clojure", "boot"]}

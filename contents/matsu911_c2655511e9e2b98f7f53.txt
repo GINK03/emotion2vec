@@ -1,1 +1,0 @@
-{"context": "http://es6-features.org/\nhttp://es6-features.org/\n", "tags": ["es6"]}

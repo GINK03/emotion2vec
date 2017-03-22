@@ -1,1 +1,0 @@
-{"context": "\n\nChainer Samples\nChainer samples for begginers.\nStep by step.\nhttps://github.com/aux-di/chainer-samplesi\n# Chainer Samples\n\nChainer samples for begginers.\nStep by step.\n\nhttps://github.com/aux-di/chainer-samplesi\n", "tags": ["Chainer", "Python"]}

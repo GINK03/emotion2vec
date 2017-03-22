@@ -1,1 +1,0 @@
-{"context": "$ ls -C > hogehoge.txt\n\n```\n$ ls -C > hogehoge.txt\n```\n", "tags": ["Linux\u30b3\u30de\u30f3\u30c9"]}

@@ -1,1 +1,0 @@
-{"context": "_.fromPairs(location.search.slice(1).split('&').map(p => p.split('=').map(p => decodeURIComponent(p))))\n_.fromPairs(location.search.slice(1).split('&').map(p => p.split('=').map(p => decodeURIComponent(p))))\n", "tags": ["JavaScript", "lodash", "URL"]}

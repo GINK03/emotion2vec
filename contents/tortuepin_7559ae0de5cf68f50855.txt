@@ -1,1 +1,0 @@
-{"context": "C-b c\n\nC-b\u306f\u30d7\u30ec\u30d5\u30a3\u30c3\u30af\u30b9\u30ad\u30fc\n```\nC-b c\n```\n\nC-b\u306f\u30d7\u30ec\u30d5\u30a3\u30c3\u30af\u30b9\u30ad\u30fc\n", "tags": ["tmux"]}

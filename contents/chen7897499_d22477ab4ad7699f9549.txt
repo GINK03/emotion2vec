@@ -1,1 +1,0 @@
-{"context": "http://andrewhfarmer.com/webpack-watch-in-vagrant-docker/\nhttp://andrewhfarmer.com/webpack-watch-in-vagrant-docker/\n\n", "tags": ["webpack"]}

@@ -1,1 +1,0 @@
-{"context": "\nmysqldump --no-data DBNAME > hoge.sql\n\n>mysqldump --no-data DBNAME > hoge.sql\n", "tags": ["MySQL", "DB", "Database", "mysqldump", "SQL"]}

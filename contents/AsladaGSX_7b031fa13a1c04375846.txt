@@ -1,1 +1,0 @@
-{"context": "\u3053\u308c\u304c\u6700\u77ed\uff1f\n#include <iostream>\nint main(){for(int i=0;++i<100;)printf(\"FizzBuzz\\n\\0Fizz\\n\\0%d\\n\"+(i%15?i%5?i%3?16:10:4:0),i);}\n\n\u3053\u308c\u304c\u6700\u77ed\uff1f\n\n```cpp\n#include <iostream>\nint main(){for(int i=0;++i<100;)printf(\"FizzBuzz\\n\\0Fizz\\n\\0%d\\n\"+(i%15?i%5?i%3?16:10:4:0),i);}\n```\n", "tags": ["FizzBuzz"]}

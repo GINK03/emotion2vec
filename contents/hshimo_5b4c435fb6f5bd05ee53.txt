@@ -1,1 +1,0 @@
-{"context": "\n\nProblem\n\"Error: Insufficient funds for gas * price + value\"\n\nHow to fix\nlower the gas!\n\n\n\n\n## Problem\n\n\"Error: Insufficient funds for gas * price + value\"\n\n\n\n## How to fix\n\n\nlower the gas!\n\n\n\n", "tags": ["Ethereum"]}

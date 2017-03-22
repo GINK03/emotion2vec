@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\ntail -f /var/log/messages /var/log/secure\n\n\u30ed\u30b0\u306e\u76e3\u8996\u306b\u4fbf\u5229\u3002\n> tail -f /var/log/messages /var/log/secure\n\n\u30ed\u30b0\u306e\u76e3\u8996\u306b\u4fbf\u5229\u3002", "tags": ["server"]}

@@ -1,1 +1,0 @@
-{"context": "npm cache clean\nrm -rf node_modules/\nexport npm_config_tmp=/tmp\ncnpm install\n\nhttps://github.com/Medium/phantomjs/issues/535\n```bash\nnpm cache clean\nrm -rf node_modules/\nexport npm_config_tmp=/tmp\ncnpm install\n```\n\nhttps://github.com/Medium/phantomjs/issues/535\n", "tags": ["npm"]}

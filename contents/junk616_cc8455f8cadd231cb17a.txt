@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.set-window-option synchronise-panes\nset-window-option synchronize-panes on\nset-window-option synchronize-panes off\nC+O\nset-window-option synchronise-panes\nset-window-option synchronize-panes on\nset-window-option synchronize-panes off\n\nC+O\n", "tags": ["tmux"]}

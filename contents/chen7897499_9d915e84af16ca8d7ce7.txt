@@ -1,1 +1,0 @@
-{"context": "http://apidock.com/rails/ActiveRecord/QueryMethods/extending\nhttp://qiita.com/pekepek/items/c57d4859e6e1ec8b1ad1\nhttp://apidock.com/rails/ActiveRecord/QueryMethods/extending\n\nhttp://qiita.com/pekepek/items/c57d4859e6e1ec8b1ad1\n\n", "tags": ["ActiveRecord"]}

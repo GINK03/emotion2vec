@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.fuel/app/config/config.php\u306b\n\u6b21\u3092\u8a2d\u5b9a\nreturn array(\n      'default_timezone' => 'Asia/Tokyo'\n    );\n\n\nfuel/app/config/config.php\u306b\n\n\u6b21\u3092\u8a2d\u5b9a\n\n```\nreturn array(\n\t  'default_timezone' => 'Asia/Tokyo'\n\t);\n```\n", "tags": ["FuelPHP"]}

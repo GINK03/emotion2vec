@@ -1,1 +1,0 @@
-{"context": "=TEXT(WEEKDAY(A2),\"ddd\")\n\n\u53c2\u8003: https://support.google.com/docs/answer/3094139\n```\n=TEXT(WEEKDAY(A2),\"ddd\")\n```\n\n\u53c2\u8003: https://support.google.com/docs/answer/3094139\n", "tags": ["GoogleSpreadSheet"]}

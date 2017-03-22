@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u30ec\u30a4\u30e4\u30fc\u5207\u308a\u66ff\u3048\u308b\u611f\u3058\u306a\u306e\u304b\u3002\nhttp://www.sitepoint.com/use-svg-image-sprites/\n\u30ec\u30a4\u30e4\u30fc\u5207\u308a\u66ff\u3048\u308b\u611f\u3058\u306a\u306e\u304b\u3002\nhttp://www.sitepoint.com/use-svg-image-sprites/", "tags": ["SVG"]}

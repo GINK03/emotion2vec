@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update..vmx\u30d5\u30a1\u30a4\u30eb\u306e\u6700\u7d42\u884c\u306b\nethernet0.virtualDev = \"e1000e\"\n\u3092\u8ffd\u52a0\n.vmx\u30d5\u30a1\u30a4\u30eb\u306e\u6700\u7d42\u884c\u306b\n\nethernet0.virtualDev = \"e1000e\"\n\n\u3092\u8ffd\u52a0", "tags": ["windows7", "Windows8", "vmware"]}

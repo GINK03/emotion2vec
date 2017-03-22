@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.convert ./*.png -background transparent -append ./spritesheet.png \n\n```\nconvert ./*.png -background transparent -append ./spritesheet.png \n```", "tags": ["ImageMagick"]}

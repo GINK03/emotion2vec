@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.Clojure \u306b\u304a\u3051\u308b\u5e7e\u3064\u304b\u306e\u5b9f\u8df5\u7684\u306a\u30c7\u30d0\u30c3\u30b0\u65b9\u6cd5\n[Clojure \u306b\u304a\u3051\u308b\u5e7e\u3064\u304b\u306e\u5b9f\u8df5\u7684\u306a\u30c7\u30d0\u30c3\u30b0\u65b9\u6cd5](http://ayato.hateblo.jp/entry/20150419/1429437366)\n", "tags": ["Clojure1.6"]}

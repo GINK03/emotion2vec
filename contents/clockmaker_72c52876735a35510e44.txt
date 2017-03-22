@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.trace(\"aaa.php#hoge=hoge\".replace(/.[a-z0-9]+([#\\?])/, \".i$1\"));\ntrace(\"aaa.php#hoge=hoge\".replace(/\\.[a-z0-9]+([#\\?])/, \".i$1\"));", "tags": ["ActionScript"]}

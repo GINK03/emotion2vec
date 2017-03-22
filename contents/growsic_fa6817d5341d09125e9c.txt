@@ -1,1 +1,0 @@
-{"tags": ["zip", "Linux"], "context": "\nzip -r zipfile.zip directory\n\n >zip -r zipfile.zip directory\n"}

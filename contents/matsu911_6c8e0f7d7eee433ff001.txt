@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u3053\u3093\u306a\u304b\u3093\u3058\ncurl -sL \"http://api.example.com/assets.xml\" | xmllint --format -\n\n\u3053\u3093\u306a\u304b\u3093\u3058\n\n```\ncurl -sL \"http://api.example.com/assets.xml\" | xmllint --format -\n```\n", "tags": ["XML", "curl"]}

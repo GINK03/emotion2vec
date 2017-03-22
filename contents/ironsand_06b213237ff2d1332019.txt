@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.doc.css(\"a[href$='.pdf']\").map{|n| n['href']}\n\u3067OK\u3002css selector \u4fbf\u5229\u3002\n`doc.css(\"a[href$='.pdf']\").map{|n| n['href']}`\n\n\u3067OK\u3002css selector \u4fbf\u5229\u3002\n", "tags": ["Ruby", "Nokogiri"]}

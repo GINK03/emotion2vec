@@ -1,1 +1,0 @@
-{"context": "\n\n\u5bfe\u8c61\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306b.ruby-version\u3068.ruby-gemset\u3092\u8a2d\u7f6e\n.ruby-version\nruby-2.2.5\n.ruby-gemset\nhoge\n#\u5bfe\u8c61\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306b.ruby-version\u3068.ruby-gemset\u3092\u8a2d\u7f6e\n.ruby-version\n`ruby-2.2.5`\n\n.ruby-gemset\n`hoge`\n", "tags": ["rvm"]}

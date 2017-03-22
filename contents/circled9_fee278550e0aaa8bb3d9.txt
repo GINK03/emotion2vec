@@ -1,1 +1,0 @@
-{"tags": ["GitLab"], "context": "\u66f8\u3044\u305f\u3002\njavascript:[].forEach.call(document.querySelectorAll(\".diff-wrap-lines .line_content\"),(n)=>n.style.whiteSpace=\"pre\")\n\n\n\u66f8\u3044\u305f\u3002\n\n```javascirpt\njavascript:[].forEach.call(document.querySelectorAll(\".diff-wrap-lines .line_content\"),(n)=>n.style.whiteSpace=\"pre\")\n```\n"}

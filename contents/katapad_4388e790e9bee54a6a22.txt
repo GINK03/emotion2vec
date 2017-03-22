@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.https://github.com/isaacs/minimatch\nfiles: ['**/*.js', '!public/**/*.js', '!node_modules/**/*.js']\n\nhttps://github.com/isaacs/minimatch\n\n\n```js\nfiles: ['**/*.js', '!public/**/*.js', '!node_modules/**/*.js']\n```", "tags": ["JavaScript", "grunt", "CoffeeScript"]}

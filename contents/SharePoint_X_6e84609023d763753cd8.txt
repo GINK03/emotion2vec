@@ -1,1 +1,0 @@
-{"context": "// use this function in core.js\nLaunchApp(instanceId, clientId, redirectUri, dlgOption, IsTenantApp); \n\n\n```javascript\n// use this function in core.js\nLaunchApp(instanceId, clientId, redirectUri, dlgOption, IsTenantApp); \n```\n", "tags": ["SharePoint", "JavaScript"]}

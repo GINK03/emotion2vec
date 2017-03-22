@@ -1,1 +1,0 @@
-{"context": "(#su or #su-) -> enter -> \u7ba1\u7406\u8005\uff08root\u5316\uff09\n(#su or #su-) -> enter -> \u7ba1\u7406\u8005\uff08root\u5316\uff09\n", "tags": ["UNIX"]}

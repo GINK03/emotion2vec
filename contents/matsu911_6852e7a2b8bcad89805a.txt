@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.$ firewall-cmd --permanent --add-service=http\n$ firewall-cmd --reload\n\nhttp://www.kakiro-web.com/linux/firewalld.html\n```\n$ firewall-cmd --permanent --add-service=http\n$ firewall-cmd --reload\n```\n\nhttp://www.kakiro-web.com/linux/firewalld.html\n", "tags": ["centos7", "firewalld"]}

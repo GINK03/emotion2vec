@@ -1,1 +1,0 @@
-{"context": "git add . -A\n\ngit commit -m \"\u30b3\u30e1\u30f3\u30c8\"\n\ngit pull origin master\n\ngit push origin master\n\n```shell-session\ngit add . -A\n```\n\n```shell-session\ngit commit -m \"\u30b3\u30e1\u30f3\u30c8\"\n```\n\n```shell-session\ngit pull origin master\n```\n\n```shell-session\ngit push origin master\n```\n", "tags": ["Git", "GitHub", "Push"]}

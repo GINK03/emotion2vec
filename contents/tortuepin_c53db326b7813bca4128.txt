@@ -1,1 +1,0 @@
-{"context": "bind h select-pane -L\nbind l select-pane -R\nbind j select-pane -D\nbind k select-pane -U\n\n```\nbind h select-pane -L\nbind l select-pane -R\nbind j select-pane -D\nbind k select-pane -U\n```\n", "tags": ["tmux"]}

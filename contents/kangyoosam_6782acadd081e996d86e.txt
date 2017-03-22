@@ -1,1 +1,0 @@
-{"context": "\u30b3\u30df\u30c3\u30c8 ( DB::commit )\u3059\u308b\u524d\u306b return \u3057\u3066\u3057\u307e\u3063\u3066\u305f\u3002\n\u30b3\u30df\u30c3\u30c8 ( ` DB::commit` )\u3059\u308b\u524d\u306b return \u3057\u3066\u3057\u307e\u3063\u3066\u305f\u3002\n", "tags": ["laravel", "Laravel5.3", "PHP", "Transaction"]}

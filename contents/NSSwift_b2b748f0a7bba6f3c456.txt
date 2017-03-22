@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.Objective-C\nNSDate * now = [NSDate date];\n\nSwift\nlet now = NSDate()\n\n\nObjective-C\n\n```Objective-C\nNSDate * now = [NSDate date];\n```\n\nSwift\n\n```Swift\nlet now = NSDate()\n```\n", "tags": ["ObjCToSwift"]}

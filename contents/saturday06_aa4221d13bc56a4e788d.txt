@@ -1,1 +1,0 @@
-{"tags": ["AndroidWear"], "context": " More than 1 year has passed since last update.\n\n\n![s1.jpg](https://qiita-image-store.s3.amazonaws.com/0/26528/b99bc22d-8191-b010-6cb6-1076b8bd3e8c.jpeg)\n\n\n![s2.jpg](https://qiita-image-store.s3.amazonaws.com/0/26528/2994bf3a-fe90-8c92-3673-15f87edb85bf.jpeg)\n"}

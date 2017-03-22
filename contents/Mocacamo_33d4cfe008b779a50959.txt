@@ -1,1 +1,0 @@
-{"tags": ["SQLite3"], "context": " More than 1 year has passed since last update.\u30b3\u30de\u30f3\u30c9\u306b\nfind ~/ -name \"*.sqlite3\" -ls\n\n\u3092\u6253\u3064\u3068\u6559\u3048\u3066\u304f\u308c\u308b\u3088\u3002\n\u30b3\u30de\u30f3\u30c9\u306b\n\n```\nfind ~/ -name \"*.sqlite3\" -ls\n```\n\n\u3092\u6253\u3064\u3068\u6559\u3048\u3066\u304f\u308c\u308b\u3088\u3002\n"}

@@ -1,1 +1,0 @@
-{"context": "\u4e0b\u8a18\u30ef\u30f3\u30e9\u30a4\u30ca\u30fc\u306b\u3066\nrbenv install `rbenv install -l | grep -v - | tail -1` && rbenv rehash\n\n\u4e0b\u8a18\u30ef\u30f3\u30e9\u30a4\u30ca\u30fc\u306b\u3066\n\n```sh\nrbenv install `rbenv install -l | grep -v - | tail -1` && rbenv rehash\n```\n", "tags": ["Ruby", "rbenv", "snippets"]}

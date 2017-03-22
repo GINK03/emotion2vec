@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.brew install libmagic\u3057\u3066\u304b\u3089gem\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u305f\u3089\u5165\u3063\u305f\u3002\n`brew install libmagic`\u3057\u3066\u304b\u3089gem\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u305f\u3089\u5165\u3063\u305f\u3002\n", "tags": ["Mac", "Gem"]}

@@ -1,1 +1,0 @@
-{"context": "https://github.com/plataformatec/devise/wiki/How-To:-Change-the-default-sign_in-and-sign_out-routes\nhttps://github.com/plataformatec/devise/wiki/How-To:-Change-the-default-sign_in-and-sign_out-routes\n", "tags": ["Rails", "devise"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.awk\u3055\u307e\u3055\u307e\ncat /proc/$$/smaps | grep -i swap | awk 'BEGIN{sum=0}{sum+=$2}END{print sum}' \n\nawk\u3055\u307e\u3055\u307e\n\n```\ncat /proc/$$/smaps | grep -i swap | awk 'BEGIN{sum=0}{sum+=$2}END{print sum}' \n```\n", "tags": ["command"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.Created a write-up how to set up Bootstrap using Bower on Rails4.\nhttps://gist.github.com/keit/6288233\nCreated a write-up how to set up Bootstrap using Bower on Rails4.\n\nhttps://gist.github.com/keit/6288233", "tags": ["Rails4", "bower", "bootstrap"]}

@@ -1,1 +1,0 @@
-{"context": "\n\ncode\nsed $'s/\\t/hoge/g'\n\nrefs\nhttp://mattintosh.hatenablog.com/entry/2013/01/16/143323\ncode\n--\n`sed $'s/\\t/hoge/g'`\n\nrefs\n--\nhttp://mattintosh.hatenablog.com/entry/2013/01/16/143323\n", "tags": ["sed", "OSX"]}

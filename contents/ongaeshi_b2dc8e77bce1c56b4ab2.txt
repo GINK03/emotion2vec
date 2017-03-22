@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u5727\u7e2e\n$ tar cxvf hoge.tar.gz ~/hoge\n\n\u5c55\u958b\n$ tar zxvf  hoge.tar.gz\n\n\n\u5727\u7e2e\n\n```\n$ tar cxvf hoge.tar.gz ~/hoge\n```\n\n\u5c55\u958b\n\n```\n$ tar zxvf  hoge.tar.gz\n```", "tags": ["OSX", "UNIX"]}

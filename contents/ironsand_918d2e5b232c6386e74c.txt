@@ -1,1 +1,0 @@
-{"context": "http://explainshell.com\n\u3068\u3066\u3082\u4fbf\u5229\u3002\nhttp://explainshell.com\n\n\u3068\u3066\u3082\u4fbf\u5229\u3002\n", "tags": ["command"]}

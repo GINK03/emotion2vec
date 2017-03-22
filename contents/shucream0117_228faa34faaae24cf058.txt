@@ -1,1 +1,0 @@
-{"tags": ["hack", "hacklang", "Ubuntu14.04"], "context": " More than 1 year has passed since last update.\u8a18\u4e8b\u3092\u30d6\u30ed\u30b0\u3078\u79fb\u52d5\u3057\u307e\u3057\u305f\nhttp://tech-blog.shucream.net/entry/2016/02/01/210352\n\u8a18\u4e8b\u3092\u30d6\u30ed\u30b0\u3078\u79fb\u52d5\u3057\u307e\u3057\u305f\n\nhttp://tech-blog.shucream.net/entry/2016/02/01/210352\n"}

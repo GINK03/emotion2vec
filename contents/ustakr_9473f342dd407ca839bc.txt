@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.SQL> select status from v$instance;\n\nSTATUS\n------------\nMOUNTED\n\n```sql\nSQL> select status from v$instance;\n\nSTATUS\n------------\nMOUNTED", "tags": ["oracle"]}

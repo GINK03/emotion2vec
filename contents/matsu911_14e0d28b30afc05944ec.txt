@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u3053\u308c\u306f\u305f\u307e\u3089\u3093\u3002\nhttp://www.dest-unreach.org/socat/doc/socat.html#EXAMPLES\n\u3053\u308c\u306f\u305f\u307e\u3089\u3093\u3002\nhttp://www.dest-unreach.org/socat/doc/socat.html#EXAMPLES\n", "tags": ["UNIX", "socket"]}

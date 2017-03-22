@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.let array = [\"\u304b\",\"\u304d\",\"\u304f\",\"\u3051\",\"\u3053\"]\nSwift 1.2\ncount(array)\nSwift 2.0\narray.count\n\n`let array = [\"\u304b\",\"\u304d\",\"\u304f\",\"\u3051\",\"\u3053\"]`\n\n\nSwift 1.2\n\n`count(array)`\n\n\nSwift 2.0\n\n`array.count`\n", "tags": ["Swift", "Swift2.0"]}

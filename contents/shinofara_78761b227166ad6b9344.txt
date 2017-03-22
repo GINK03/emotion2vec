@@ -1,1 +1,0 @@
-{"context": "docker run --rm -v ~/.aws:/root/.aws:ro -v ${PWD}:/work -w /work hashicorp/terraform:0.7.1 plan\n\n```\ndocker run --rm -v ~/.aws:/root/.aws:ro -v ${PWD}:/work -w /work hashicorp/terraform:0.7.1 plan\n```\n", "tags": ["Terraform", "docker"]}

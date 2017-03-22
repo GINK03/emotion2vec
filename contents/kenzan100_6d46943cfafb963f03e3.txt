@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\nxxx_spec.rb\nclick_on \"\u30c6\u30ad\u30b9\u30c8\"\n\n\nhttps://github.com/jnicklas/capybara#clicking-links-and-buttons\n\n```xxx_spec.rb\nclick_on \"\u30c6\u30ad\u30b9\u30c8\"\n```\n\nhttps://github.com/jnicklas/capybara#clicking-links-and-buttons", "tags": ["Capybara", "RSpec"]}

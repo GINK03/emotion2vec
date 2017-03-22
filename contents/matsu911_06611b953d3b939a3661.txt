@@ -1,1 +1,0 @@
-{"context": "https://gist.github.com/yukpiz/76b344f6a650125d908093c3826d5128\nhttps://gist.github.com/yukpiz/76b344f6a650125d908093c3826d5128\n", "tags": ["gradle", "Android"]}

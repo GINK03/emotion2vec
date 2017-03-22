@@ -1,1 +1,0 @@
-{"tags": ["JavaScript", "reactjs", "redux", "frontend"], "context": "\n![redux.png](https://qiita-image-store.s3.amazonaws.com/0/14068/c89eb967-3832-69fe-8861-d0053a767867.png)\n\n"}

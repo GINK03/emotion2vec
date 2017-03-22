@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.if (swfobject.hasFlashPlayerVersion('1')) {\n  // Flash!\n} else {\n  // No Flash!\n}\n\n\n```js\nif (swfobject.hasFlashPlayerVersion('1')) {\n  // Flash!\n} else {\n  // No Flash!\n}\n```", "tags": ["flash", "JavaScript"]}

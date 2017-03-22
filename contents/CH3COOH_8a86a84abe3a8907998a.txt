@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u66f8\u304d\u307e\u3057\u305f\u3002\n\nXamarin.iOS\u3067\u6b63\u898f\u8868\u73fe\u3092\u4f7f\u3046\n\n\u66f8\u304d\u307e\u3057\u305f\u3002\n\n* [Xamarin.iOS\u3067\u6b63\u898f\u8868\u73fe\u3092\u4f7f\u3046](http://ch3cooh.jp/iphone/xamarin-ios/regex-xamarin-ios/)", "tags": ["Xamarin", "iPhone"]}

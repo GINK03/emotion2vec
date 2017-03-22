@@ -1,1 +1,0 @@
-{"context": "\nhtml\n <div class=\"modal-content panel-danger\">\n <div class=\"modal-header panel-heading\">\n\n\n\u8272\u3005\u4fdd\u8a3c\u306f\u3057\u306a\u3044\u3002\n```:html\n <div class=\"modal-content panel-danger\">\n <div class=\"modal-header panel-heading\">\n```\n\n\u8272\u3005\u4fdd\u8a3c\u306f\u3057\u306a\u3044\u3002\n", "tags": ["bootstrap"]}

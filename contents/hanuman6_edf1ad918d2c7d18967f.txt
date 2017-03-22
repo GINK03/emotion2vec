@@ -1,1 +1,0 @@
-{"context": "text-rendering: optimizeLegibility\n\n\u3053\u308c\u3092\u6d88\u3059\n```css\ntext-rendering: optimizeLegibility\n```\n\n\u3053\u308c\u3092\u6d88\u3059\n", "tags": ["typekit", "webfont", "Android"]}

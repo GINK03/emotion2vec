@@ -1,1 +1,0 @@
-{"context": "(apply str (drop-last 2 (str `_)))\n\n```\n(apply str (drop-last 2 (str `_)))\n```\n", "tags": ["ClojureScript"]}

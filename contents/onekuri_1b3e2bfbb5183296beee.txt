@@ -1,1 +1,0 @@
-{"tags": ["\u30b3\u30de\u30f3\u30c9\u30d7\u30ed\u30f3\u30d7\u30c8"], "context": "\u5947\u6570\u3060\u3051\nfor %F in (*1.jpg *3.jpg *5.jpg *7.jpg *9.jpg) do move \"%F\" \"x\\\"\n\n\u5947\u6570\u3060\u3051\n\n```\nfor %F in (*1.jpg *3.jpg *5.jpg *7.jpg *9.jpg) do move \"%F\" \"x\\\"\n```\n"}

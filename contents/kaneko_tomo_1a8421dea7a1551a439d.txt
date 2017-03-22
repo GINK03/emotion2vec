@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.find . -name .DS_Store -exec rm -fr {} \\;\n\n```:\nfind . -name .DS_Store -exec rm -fr {} \\;\n```", "tags": ["find"]}

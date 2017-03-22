@@ -1,1 +1,0 @@
-{"context": "\u25a0 \u66f8\u5f0f\nhttps://googleweblight.com/?lite_url=[URL]\n\u25a0 \u4f8b\nhttps://googleweblight.com/?lite_url=https://ja.wikipedia.org/\n\n\u25a0 \u66f8\u5f0f\n\nhttps://googleweblight.com/?lite_url=[URL]\n\n\u25a0 \u4f8b\n\nhttps://googleweblight.com/?lite_url=https://ja.wikipedia.org/\n", "tags": ["Web"]}

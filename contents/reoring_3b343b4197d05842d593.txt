@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.apachectl -d /etc/apache2 -f apache2.conf -e info -DFOREGROUND\n\n```bash\napachectl -d /etc/apache2 -f apache2.conf -e info -DFOREGROUND\n```", "tags": ["Debian", "wheezy", "Apache"]}

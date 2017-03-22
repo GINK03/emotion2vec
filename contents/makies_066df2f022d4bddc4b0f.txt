@@ -1,1 +1,0 @@
-{"context": "$ sudo useradd -m -d /home/USERNAME -s /bin/bash USERNAME\n$ sudo passwd USERNAME\n$ sudo gpasswd -a USERNAME sudo\n\n```\n$ sudo useradd -m -d /home/USERNAME -s /bin/bash USERNAME\n$ sudo passwd USERNAME\n$ sudo gpasswd -a USERNAME sudo\n```\n", "tags": ["Ubuntu", "ubuntu16.04"]}

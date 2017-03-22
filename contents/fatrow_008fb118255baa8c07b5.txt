@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u306f\u307e\u3063\u305f\u3002\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n\u306f\u307e\u3063\u305f\u3002\n\n```\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n```", "tags": ["XML"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.bower install d3\n\n```shell-session\nbower install d3\n```", "tags": ["d3.js"]}

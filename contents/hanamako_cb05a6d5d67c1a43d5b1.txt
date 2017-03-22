@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.WP Multibyte Patch\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u66f4\u65b0\u3059\u308b\u3068\u5927\u4f53\u306a\u304a\u308b\u3002\nWP Multibyte Patch\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u66f4\u65b0\u3059\u308b\u3068\u5927\u4f53\u306a\u304a\u308b\u3002\n", "tags": ["WordPress", "tinyMCE"]}

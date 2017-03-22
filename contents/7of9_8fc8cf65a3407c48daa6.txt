@@ -1,1 +1,0 @@
-{"context": "http://razzpisampler.oreilly.com/ch07.html\n\nThe input pin is normally pulled up to 3.3V by the optional argument pull_up_down=GPIO.PUD_UP in GPIO.setup.\n\n\nhttp://razzpisampler.oreilly.com/ch07.html\n\n> The input pin is normally pulled up to 3.3V by the optional argument pull_up_down=GPIO.PUD_UP in GPIO.setup.\n\n\n", "tags": ["RPi", "myLineMonitor", "gpio"]}

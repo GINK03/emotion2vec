@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.http://kzhirata77.blogspot.jp/2013/10/aws-s3scala.html\nhttp://kzhirata77.blogspot.jp/2013/10/aws-s3scala.html", "tags": ["Scala", "S3"]}

@@ -1,1 +1,0 @@
-{"tags": ["ntp"], "context": "http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/\nhttp://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/\n"}

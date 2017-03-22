@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.cat hoge.json | jq '.' -C | less -R\n\n```bash\ncat hoge.json | jq '.' -C | less -R\n```\n", "tags": ["jq", "less", "Linux"]}

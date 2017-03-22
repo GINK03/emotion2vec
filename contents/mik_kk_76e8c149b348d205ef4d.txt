@@ -1,1 +1,0 @@
-{"tags": ["Apache", "\u6587\u5b57\u5316\u3051"], "context": "tail -f error.log | perl -nle 's/\\?\\\\([a-f\\d]{3})/chr($1)/ieg;s/\\\\x([a-f\\d]{2})/pack(\"C\", hex($1))/ieg;print $_;'\n\n```\ntail -f error.log | perl -nle 's/\\?\\\\([a-f\\d]{3})/chr($1)/ieg;s/\\\\x([a-f\\d]{2})/pack(\"C\", hex($1))/ieg;print $_;'\n```\n"}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\n\nUbuntu\napt --installed list\n\nCentos6.x\nyum list installed\n## Ubuntu\n`apt --installed list`\n\n## Centos6.x\n`yum list installed`\n", "tags": ["Ubuntu", "CentOS6.x"]}

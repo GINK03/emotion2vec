@@ -1,1 +1,0 @@
-{"tags": ["svn"], "context": " More than 1 year has passed since last update.$ svn cp -r xx svn://host/path/to/trunk svn://host/path/to/tags/tag_name\n\n\u53c2\u8003:\nsvn copy\n\n```\n$ svn cp -r xx svn://host/path/to/trunk svn://host/path/to/tags/tag_name\n```\n\n\u53c2\u8003:\n[svn copy](http://www.caldron.jp/~nabetaro/svn/svnbook-1.4-final/svn.ref.svn.c.copy.html)\n"}

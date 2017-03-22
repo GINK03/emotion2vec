@@ -1,1 +1,0 @@
-{"context": "http://makandracards.com/makandra/1463-random-list-of-activesupport-goodies\nhttp://makandracards.com/makandra/1463-random-list-of-activesupport-goodies\n\n", "tags": ["activesupport"]}

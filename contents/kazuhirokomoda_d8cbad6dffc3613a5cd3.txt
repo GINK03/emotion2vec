@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.response.setEncoding('binary');\n\nhttp://stackoverflow.com/questions/8008157/node-js-unicode-issue-with-http-response-body\n```js\nresponse.setEncoding('binary');\n```\n\nhttp://stackoverflow.com/questions/8008157/node-js-unicode-issue-with-http-response-body\n", "tags": ["nodejs", "HTTP"]}

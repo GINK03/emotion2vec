@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.You can install the apk in the command line with this command:\nadb install <apk-filename>\n\nYou can install the apk in the command line with this command:\n\n```\nadb install <apk-filename>\n```\n", "tags": ["Android", "adb", "install", "apk"]}

@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.$ gem install rbenv-rehash\n\n```sh:\n$ gem install rbenv-rehash\n```\n", "tags": ["Ruby", "rbenv"]}

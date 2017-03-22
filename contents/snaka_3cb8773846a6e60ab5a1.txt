@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.\u53c2\u8003: http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230887/\n$ du -k . | sort -n -r\n\n\n\u53c2\u8003: http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230887/\n\n```\n$ du -k . | sort -n -r\n```\n\n", "tags": ["UNIX"]}

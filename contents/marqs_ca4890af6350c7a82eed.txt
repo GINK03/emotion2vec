@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.every 1.month, :at => \"start of the month at 3:00 am\" do\n  command\nend\n\n```ruby\nevery 1.month, :at => \"start of the month at 3:00 am\" do\n  command\nend\n```", "tags": ["Ruby", "whenever"]}

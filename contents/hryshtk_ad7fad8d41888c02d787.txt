@@ -1,1 +1,0 @@
-{"context": "ls -rt | tail -1 | tr -s ' ' | cut -d ' ' -f 10\n\n```\nls -rt | tail -1 | tr -s ' ' | cut -d ' ' -f 10\n```\n", "tags": ["Bash", "command"]}

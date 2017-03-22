@@ -1,1 +1,0 @@
-{"tags": ["common-lisp"], "context": " More than 1 year has passed since last update.iterate\u3092\u4f7f\u3063\u3066loop\u30de\u30af\u30ed\u306e\u546a\u7e1b\u304b\u3089\u89e3\u304d\u653e\u305f\u308c\u308b\n[iterate\u3092\u4f7f\u3063\u3066loop\u30de\u30af\u30ed\u306e\u546a\u7e1b\u304b\u3089\u89e3\u304d\u653e\u305f\u308c\u308b](http://d.hatena.ne.jp/wasabiz/20121202/1354415802)"}

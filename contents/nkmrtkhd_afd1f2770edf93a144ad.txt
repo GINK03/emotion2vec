@@ -1,1 +1,0 @@
-{"context": " More than 1 year has passed since last update.var frm=NSDateFormatter()\nfrm.dateFormat=\"yyyyMMdd_HHmmss\"\nprintln(frm.stringFromDate(NSDate()))\n\n\n```swift\nvar frm=NSDateFormatter()\nfrm.dateFormat=\"yyyyMMdd_HHmmss\"\nprintln(frm.stringFromDate(NSDate()))\n```\n", "tags": ["Format", "Swift", "datetime"]}
